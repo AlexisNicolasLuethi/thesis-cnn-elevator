@@ -1,0 +1,14 @@
+{
+  "timestamp": "20241225_074851",
+  "total_images": 121,
+  "optimal_clusters": 1,
+  "outliers_detected": 6,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/HYDRO ELITE/F_FOTO_STEUERUNG_52e43067-ff67-487a-aca8-1ec9543c8265.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HYDRO ELITE/F_FOTO_STEUERUNG_5cb59582a6feee2523012304.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HYDRO ELITE/F_FOTO_STEUERUNG_5cd93456db8ee50001493848.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HYDRO ELITE/F_FOTO_STEUERUNG_5d4158154879090001027ee7.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HYDRO ELITE/F_FOTO_STEUERUNG_5d4159f88efd76000132186b.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HYDRO ELITE/F_FOTO_STEUERUNG_5d5f9313a4a5d50001feb9a0.jpg"
+  ]
+}

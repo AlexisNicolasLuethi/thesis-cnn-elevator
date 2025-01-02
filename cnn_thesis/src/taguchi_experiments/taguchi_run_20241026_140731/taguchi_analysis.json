@@ -1,0 +1,320 @@
+{
+    "experiment_setup": {
+        "experiment_id": "20241026_140731",
+        "tested_parameters": {
+            "learning_rate": {
+                "values_tested": [
+                    0.0001,
+                    0.001,
+                    0.01
+                ],
+                "level_mapping": {
+                    "Level 0": 0.0001,
+                    "Level 1": 0.001,
+                    "Level 2": 0.01
+                }
+            },
+            "batch_size": {
+                "values_tested": [
+                    16,
+                    32,
+                    64
+                ],
+                "level_mapping": {
+                    "Level 0": 16,
+                    "Level 1": 32,
+                    "Level 2": 64
+                }
+            },
+            "dropout_rate": {
+                "values_tested": [
+                    0.3,
+                    0.5,
+                    0.7
+                ],
+                "level_mapping": {
+                    "Level 0": 0.3,
+                    "Level 1": 0.5,
+                    "Level 2": 0.7
+                }
+            },
+            "l2_regularization": {
+                "values_tested": [
+                    0.001,
+                    0.01,
+                    0.1
+                ],
+                "level_mapping": {
+                    "Level 0": 0.001,
+                    "Level 1": 0.01,
+                    "Level 2": 0.1
+                }
+            },
+            "epochs": {
+                "values_tested": [
+                    2,
+                    5,
+                    10
+                ],
+                "level_mapping": {
+                    "Level 0": 2,
+                    "Level 1": 5,
+                    "Level 2": 10
+                }
+            }
+        },
+        "experiment_design": {
+            "type": "Taguchi L18",
+            "num_experiments": 9,
+            "experiment_matrix": [
+                {
+                    "experiment": 1,
+                    "parameters": {
+                        "learning_rate": 0.0001,
+                        "batch_size": 16,
+                        "dropout_rate": 0.3,
+                        "l2_regularization": 0.001,
+                        "epochs": 2
+                    }
+                },
+                {
+                    "experiment": 2,
+                    "parameters": {
+                        "learning_rate": 0.0001,
+                        "batch_size": 32,
+                        "dropout_rate": 0.5,
+                        "l2_regularization": 0.01,
+                        "epochs": 5
+                    }
+                },
+                {
+                    "experiment": 3,
+                    "parameters": {
+                        "learning_rate": 0.0001,
+                        "batch_size": 64,
+                        "dropout_rate": 0.7,
+                        "l2_regularization": 0.1,
+                        "epochs": 10
+                    }
+                },
+                {
+                    "experiment": 4,
+                    "parameters": {
+                        "learning_rate": 0.001,
+                        "batch_size": 16,
+                        "dropout_rate": 0.5,
+                        "l2_regularization": 0.1,
+                        "epochs": 10
+                    }
+                },
+                {
+                    "experiment": 5,
+                    "parameters": {
+                        "learning_rate": 0.001,
+                        "batch_size": 32,
+                        "dropout_rate": 0.7,
+                        "l2_regularization": 0.001,
+                        "epochs": 2
+                    }
+                },
+                {
+                    "experiment": 6,
+                    "parameters": {
+                        "learning_rate": 0.001,
+                        "batch_size": 64,
+                        "dropout_rate": 0.3,
+                        "l2_regularization": 0.01,
+                        "epochs": 5
+                    }
+                },
+                {
+                    "experiment": 7,
+                    "parameters": {
+                        "learning_rate": 0.01,
+                        "batch_size": 16,
+                        "dropout_rate": 0.7,
+                        "l2_regularization": 0.01,
+                        "epochs": 10
+                    }
+                },
+                {
+                    "experiment": 8,
+                    "parameters": {
+                        "learning_rate": 0.01,
+                        "batch_size": 32,
+                        "dropout_rate": 0.3,
+                        "l2_regularization": 0.1,
+                        "epochs": 2
+                    }
+                },
+                {
+                    "experiment": 9,
+                    "parameters": {
+                        "learning_rate": 0.01,
+                        "batch_size": 64,
+                        "dropout_rate": 0.5,
+                        "l2_regularization": 0.001,
+                        "epochs": 5
+                    }
+                }
+            ]
+        },
+        "individual_results": [
+            {
+                "experiment": 1,
+                "parameters_used": {
+                    "learning_rate": 0.0001,
+                    "batch_size": 16,
+                    "dropout_rate": 0.3,
+                    "l2_regularization": 0.001,
+                    "epochs": 2
+                },
+                "validation_accuracy": 0.8888888955116272
+            },
+            {
+                "experiment": 2,
+                "parameters_used": {
+                    "learning_rate": 0.0001,
+                    "batch_size": 32,
+                    "dropout_rate": 0.5,
+                    "l2_regularization": 0.01,
+                    "epochs": 5
+                },
+                "validation_accuracy": 0.9153439402580261
+            },
+            {
+                "experiment": 3,
+                "parameters_used": {
+                    "learning_rate": 0.0001,
+                    "batch_size": 64,
+                    "dropout_rate": 0.7,
+                    "l2_regularization": 0.1,
+                    "epochs": 10
+                },
+                "validation_accuracy": 0.8994709253311157
+            },
+            {
+                "experiment": 4,
+                "parameters_used": {
+                    "learning_rate": 0.001,
+                    "batch_size": 16,
+                    "dropout_rate": 0.5,
+                    "l2_regularization": 0.1,
+                    "epochs": 10
+                },
+                "validation_accuracy": 0.8977072238922119
+            },
+            {
+                "experiment": 5,
+                "parameters_used": {
+                    "learning_rate": 0.001,
+                    "batch_size": 32,
+                    "dropout_rate": 0.7,
+                    "l2_regularization": 0.001,
+                    "epochs": 2
+                },
+                "validation_accuracy": 0.8888888955116272
+            },
+            {
+                "experiment": 6,
+                "parameters_used": {
+                    "learning_rate": 0.001,
+                    "batch_size": 64,
+                    "dropout_rate": 0.3,
+                    "l2_regularization": 0.01,
+                    "epochs": 5
+                },
+                "validation_accuracy": 0.89241623878479
+            },
+            {
+                "experiment": 7,
+                "parameters_used": {
+                    "learning_rate": 0.01,
+                    "batch_size": 16,
+                    "dropout_rate": 0.7,
+                    "l2_regularization": 0.01,
+                    "epochs": 10
+                },
+                "validation_accuracy": 0.9100528955459595
+            },
+            {
+                "experiment": 8,
+                "parameters_used": {
+                    "learning_rate": 0.01,
+                    "batch_size": 32,
+                    "dropout_rate": 0.3,
+                    "l2_regularization": 0.1,
+                    "epochs": 2
+                },
+                "validation_accuracy": 0.8624338507652283
+            },
+            {
+                "experiment": 9,
+                "parameters_used": {
+                    "learning_rate": 0.01,
+                    "batch_size": 64,
+                    "dropout_rate": 0.5,
+                    "l2_regularization": 0.001,
+                    "epochs": 5
+                },
+                "validation_accuracy": 0.9188712239265442
+            }
+        ]
+    },
+    "analysis_results": {
+        "effects": {
+            "learning_rate": {
+                "Level 0 (0.0001)": 0.9012345870335897,
+                "Level 1 (0.001)": 0.8930041193962097,
+                "Level 2 (0.01)": 0.8971193234125773
+            },
+            "batch_size": {
+                "Level 0 (16)": 0.8988830049832662,
+                "Level 1 (32)": 0.8888888955116272,
+                "Level 2 (64)": 0.9035861293474833
+            },
+            "dropout_rate": {
+                "Level 0 (0.3)": 0.8812463283538818,
+                "Level 1 (0.5)": 0.9106407960255941,
+                "Level 2 (0.7)": 0.8994709054629008
+            },
+            "l2_regularization": {
+                "Level 0 (0.001)": 0.8988830049832662,
+                "Level 1 (0.01)": 0.9059376915295919,
+                "Level 2 (0.1)": 0.8865373333295187
+            },
+            "epochs": {
+                "Level 0 (2)": 0.8800705472628275,
+                "Level 1 (5)": 0.9088771343231201,
+                "Level 2 (10)": 0.9024103482564291
+            }
+        },
+        "optimal_parameters": {
+            "learning_rate": 0.0001,
+            "batch_size": 64,
+            "dropout_rate": 0.5,
+            "l2_regularization": 0.01,
+            "epochs": 5
+        },
+        "parameter_contributions": {
+            "learning_rate": "4.34%",
+            "batch_size": "14.45%",
+            "dropout_rate": "56.47%",
+            "l2_regularization": "24.73%",
+            "epochs": "58.60%"
+        },
+        "best_accuracy": 0.9188712239265442,
+        "best_experiment": {
+            "learning_rate": 0.01,
+            "batch_size": 64,
+            "dropout_rate": 0.5,
+            "l2_regularization": 0.001,
+            "epochs": 5
+        }
+    },
+    "visualization_paths": {
+        "parameter_effects": "/teamspace/studios/this_studio/cnn_thesis/src/taguchi_experiments/taguchi_run_20241026_140731/parameter_effects.png",
+        "parameter_contributions": "/teamspace/studios/this_studio/cnn_thesis/src/taguchi_experiments/taguchi_run_20241026_140731/parameter_contributions.png"
+    },
+    "timestamp": "2024-10-26 14:14:41"
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "20241225_093051",
+  "total_images": 152,
+  "optimal_clusters": 1,
+  "outliers_detected": 6,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/RELAY/F_FOTO_STEUERUNG_5bab44ccaec5a20527d83ba4.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/RELAY/F_FOTO_STEUERUNG_5c54473ae57a152fa51a39d4.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/RELAY/F_FOTO_STEUERUNG_5c5a8ef55da3d53f76c43bc2.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/RELAY/F_FOTO_STEUERUNG_5c9a00e75da3d50669cbd44a.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/RELAY/F_FOTO_STEUERUNG_5cdeafc80bf6f50001f85357.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/RELAY/F_FOTO_STEUERUNG_5d2437364f7bbb0001b57e86.jpg"
+  ]
+}

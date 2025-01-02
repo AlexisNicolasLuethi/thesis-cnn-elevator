@@ -1,0 +1,12 @@
+{
+  "timestamp": "20241224_191124",
+  "total_images": 164,
+  "optimal_clusters": 1,
+  "outliers_detected": 4,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Doordrive/WITTUR FINE LINE/F_FOTO_DOORDRIVE_2c61fca4-bc9d-4db5-af6a-b907c02fd2f2.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/WITTUR FINE LINE/F_FOTO_DOORDRIVE_52685d50-c026-48a2-8825-7d686c0d9f86.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/WITTUR FINE LINE/F_FOTO_DOORDRIVE_5f770e189b22c82d6db9a169.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/WITTUR FINE LINE/F_FOTO_DOORDRIVE_6de0d9a8-c74f-43c0-a1f7-b9cf13377171.jpg"
+  ]
+}

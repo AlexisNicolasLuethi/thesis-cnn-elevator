@@ -1,0 +1,13 @@
+{
+  "timestamp": "20241225_082150",
+  "total_images": 186,
+  "optimal_clusters": 1,
+  "outliers_detected": 5,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/MICONIC MX7_2/F_FOTO_STEUERUNG_5be97d605da3d540c0a82ce5.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MICONIC MX7_2/F_FOTO_STEUERUNG_5d808911541f0f0001083729.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MICONIC MX7_2/F_FOTO_STEUERUNG_5ecbd7ece73cd8368867bf8b.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MICONIC MX7_2/F_FOTO_STEUERUNG_5f80259c1c64e57688b8c46a.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MICONIC MX7_2/F_FOTO_STEUERUNG_cafbfd2d-ed7b-4dc4-8320-c7fd0aee354e.jpg"
+  ]
+}

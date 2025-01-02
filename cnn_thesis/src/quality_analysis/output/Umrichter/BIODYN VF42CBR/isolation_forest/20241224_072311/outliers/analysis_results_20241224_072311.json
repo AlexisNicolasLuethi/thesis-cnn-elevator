@@ -1,0 +1,21 @@
+{
+  "timestamp": "20241224_072311",
+  "total_images": 123,
+  "optimal_clusters": 1,
+  "outliers_detected": 13,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5b6c59cb5da3d54950e4cdb9.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5bf6b156a6feee09b4ce40b9.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5c7fc476e57a154c662a85ce.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5c7fc5175da3d576e93e267b.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5c7fc5c35da3d576e93e27cc.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5c91fb4a5da3d50e7ee559c9.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5ccaaf4322135200010916c3.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5d0798d2b2c9d00001506223.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5da822c5a2c82900010cba56.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5dce703768d1be0001068979.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5def7bbe45dd894bb3fde321.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5dfa2f6db81dbb05c6339eef.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5f50855e7a93e00ddd269d9a.jpg"
+  ]
+}

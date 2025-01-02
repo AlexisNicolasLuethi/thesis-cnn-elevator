@@ -1,0 +1,14 @@
+{
+  "timestamp": "20241224_155845",
+  "total_images": 180,
+  "optimal_clusters": 1,
+  "outliers_detected": 6,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Doordrive/OTIS-ohne Regelung/F_FOTO_DOORDRIVE_065f90b6-0c87-4819-b8b3-1e7ace4e8fcb.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/OTIS-ohne Regelung/F_FOTO_DOORDRIVE_5d4d6917b5632d00012a01a9.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/OTIS-ohne Regelung/F_FOTO_DOORDRIVE_5de8d33c16b3f90dc1322502.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/OTIS-ohne Regelung/F_FOTO_DOORDRIVE_5eb3edd76ce7ff281bf899ee.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/OTIS-ohne Regelung/F_FOTO_DOORDRIVE_6a823b02-81dc-4854-89f9-41c40e327395.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/OTIS-ohne Regelung/F_FOTO_DOORDRIVE_b17b81a6-5ecf-4c95-b0c9-6cf37035ef80.jpg"
+  ]
+}

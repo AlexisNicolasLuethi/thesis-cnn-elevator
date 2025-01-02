@@ -1,0 +1,16 @@
+{
+  "timestamp": "20241224_231243",
+  "total_images": 404,
+  "optimal_clusters": 1,
+  "outliers_detected": 8,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/LK250/F_FOTO_GB_5bc096caa6feee6b020f76e2.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/LK250/F_FOTO_GB_5c641b47aec5a2368e8b2add.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/LK250/F_FOTO_GB_5c6b063be57a151870cf6e02.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/LK250/F_FOTO_GB_5c8b58dfe57a154893edea37.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/LK250/F_FOTO_GB_5cdc0b752586f700015641f0.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/LK250/F_FOTO_GB_5da6d94825ceaa0001c0a42e.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/LK250/F_FOTO_GB_5f3e1fd6f1808777b8d8a615.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/LK250/F_FOTO_GB_e255d253-b6c7-4d9b-bbe8-0d9d150e4496.jpg"
+  ]
+}

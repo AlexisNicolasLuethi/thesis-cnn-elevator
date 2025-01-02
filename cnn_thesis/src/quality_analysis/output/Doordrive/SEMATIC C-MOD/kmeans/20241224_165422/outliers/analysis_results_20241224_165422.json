@@ -1,0 +1,14 @@
+{
+  "timestamp": "20241224_165422",
+  "total_images": 139,
+  "optimal_clusters": 5,
+  "outliers_detected": 6,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Doordrive/SEMATIC C-MOD/F_FOTO_DOORDRIVE_24d19878-a6d4-4bb4-a0fb-744bd3328b8e.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/SEMATIC C-MOD/F_FOTO_DOORDRIVE_2c0fa5c2-1612-4964-b6c0-d35dd55041fb.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/SEMATIC C-MOD/F_FOTO_DOORDRIVE_bfee7d5a-1aa3-45cd-85dd-72f33bb25682.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/SEMATIC C-MOD/F_FOTO_DOORDRIVE_c2244062-517e-4b9d-8b3f-6c984d4be186.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/SEMATIC C-MOD/F_FOTO_DOORDRIVE_c2c34db6-e0e7-49a4-bec1-0dac2a7d5b96.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/SEMATIC C-MOD/F_FOTO_DOORDRIVE_caa6a297-8380-4add-b137-f12cf00241e9.jpg"
+  ]
+}

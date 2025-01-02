@@ -1,0 +1,30 @@
+{
+  "timestamp": "20241224_050534",
+  "total_images": 220,
+  "optimal_clusters": 1,
+  "outliers_detected": 22,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5bb6140ee57a150639f3fb00.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5bf684275da3d5620f76a05a.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5c5afa76a6feee7b5f5b0c15.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5c73a9a95da3d50689e19048.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5c743656e57a15067a1f40ae.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5c80d5e8a6feee39f9e501b6.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5c8b862baec5a2064c551220.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5d38137158886400010e432c.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5d63a96eaab2d70001dc2a65.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5d63ba136edec00001f413e8.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5d68d4e1c2e6df0001b1c2c5.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5d6963b2fdff4500015f3f0a.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5d696a11a6498200018b3ab5.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5d78ac20acca820001ba0a86.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5d7f78ab48050b0001f16b33.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5d92d768fb739c0001ebaeec.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5d9706b08a94210001f742b2.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5d9d846ba8d52b0001e6176a.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5da9811125ceaa0001659643.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5ec38e2aec495d3e4ab2b505.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5f1fd7de4953b219fcdb1d51.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_898a3713-9300-4955-a45c-6d1147aaacd9.jpg"
+  ]
+}

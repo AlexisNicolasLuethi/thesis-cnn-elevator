@@ -1,0 +1,16 @@
+{
+  "timestamp": "20241224_165657",
+  "total_images": 339,
+  "optimal_clusters": 1,
+  "outliers_detected": 8,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Doordrive/Selcom/F_FOTO_DOORDRIVE_5b9134565da3d5060a91790e.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Selcom/F_FOTO_DOORDRIVE_5cb81d65aec5a2064f9e3545.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Selcom/F_FOTO_DOORDRIVE_5cf77a1ba33c270001bade96.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Selcom/F_FOTO_DOORDRIVE_5da083f477f91d000180234e.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Selcom/F_FOTO_DOORDRIVE_5f036633-dee3-44ef-bec3-7ff6c6429466.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Selcom/F_FOTO_DOORDRIVE_76b4cf18-3af4-4d2a-872d-a93620cc27b0.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Selcom/F_FOTO_DOORDRIVE_dc901213-6599-4837-8eab-2d233d4f4020.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Selcom/F_FOTO_DOORDRIVE_f83bcdcf-e4d7-439b-be97-357be05ae731.jpg"
+  ]
+}

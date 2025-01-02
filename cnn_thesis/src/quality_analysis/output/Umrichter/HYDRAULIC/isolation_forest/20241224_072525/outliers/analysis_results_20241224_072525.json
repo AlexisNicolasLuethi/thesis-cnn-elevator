@@ -1,0 +1,10 @@
+{
+  "timestamp": "20241224_072525",
+  "total_images": 17,
+  "optimal_clusters": 1,
+  "outliers_detected": 2,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIC/F_FOTO_UMRICHTER_5c90b33a5da3d5063e948bae.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIC/F_FOTO_UMRICHTER_5cf8ab2ba33c27000112f503.jpg"
+  ]
+}

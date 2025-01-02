@@ -1,0 +1,10 @@
+{
+  "timestamp": "20241224_160143",
+  "total_images": 151,
+  "optimal_clusters": 7,
+  "outliers_detected": 2,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Doordrive/QKS11-mit Regelung/F_FOTO_DOORDRIVE_5c1ba78f5da3d50663b79bd4.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/QKS11-mit Regelung/F_FOTO_DOORDRIVE_5ccab0458834c3000176c7f4.jpg"
+  ]
+}

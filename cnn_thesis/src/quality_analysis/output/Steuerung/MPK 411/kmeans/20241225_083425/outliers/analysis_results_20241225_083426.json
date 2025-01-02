@@ -1,0 +1,12 @@
+{
+  "timestamp": "20241225_083426",
+  "total_images": 126,
+  "optimal_clusters": 1,
+  "outliers_detected": 4,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/MPK 411/F_FOTO_STEUERUNG_5ba8bf915da3d50527710a50.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MPK 411/F_FOTO_STEUERUNG_aa3231ba-a941-447a-9ee8-5176352f22c8.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MPK 411/F_FOTO_STEUERUNG_bc754f6c-2687-4fcd-aede-1b50730d1946.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MPK 411/F_FOTO_STEUERUNG_f107915b-254f-495a-bbf0-504061db0901.jpg"
+  ]
+}

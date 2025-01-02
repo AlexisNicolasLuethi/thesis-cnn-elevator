@@ -1,0 +1,11 @@
+{
+  "timestamp": "20241225_130644",
+  "total_images": 103,
+  "optimal_clusters": 1,
+  "outliers_detected": 3,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIK/F_FOTO_UMRICHTER_5d483719daa6e90001412700.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIK/F_FOTO_UMRICHTER_5e2969da7c89340b7f7d2095.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIK/F_FOTO_UMRICHTER_6146bc02-0119-4460-b3f2-eb607fb84fab.jpg"
+  ]
+}

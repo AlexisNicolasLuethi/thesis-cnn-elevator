@@ -1,0 +1,19 @@
+{
+  "timestamp": "20241224_081135",
+  "total_images": 103,
+  "optimal_clusters": 4,
+  "outliers_detected": 11,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Winde/W200/F_FOTO_WINDE_5b978148e57a150800d880ef.jpg",
+    "/teamspace/studios/this_studio/images/Winde/W200/F_FOTO_WINDE_5bacd8c2e57a1508002bde13.jpg",
+    "/teamspace/studios/this_studio/images/Winde/W200/F_FOTO_WINDE_5c57e9b65da3d53f767d827b.jpg",
+    "/teamspace/studios/this_studio/images/Winde/W200/F_FOTO_WINDE_5c6be0e9a6feee4ee86cd9a3.jpg",
+    "/teamspace/studios/this_studio/images/Winde/W200/F_FOTO_WINDE_5c91f20c5da3d50e7ee24911.jpg",
+    "/teamspace/studios/this_studio/images/Winde/W200/F_FOTO_WINDE_5c9246c45da3d50e7ef1c245.jpg",
+    "/teamspace/studios/this_studio/images/Winde/W200/F_FOTO_WINDE_5d08b5a541ea5500017611bc.jpg",
+    "/teamspace/studios/this_studio/images/Winde/W200/F_FOTO_WINDE_5da0786aa8d52b0001e925bb.jpg",
+    "/teamspace/studios/this_studio/images/Winde/W200/F_FOTO_WINDE_5da4318ca8d52b0001eaf6f4.jpg",
+    "/teamspace/studios/this_studio/images/Winde/W200/F_FOTO_WINDE_5db997c4b1a7d5000101d29a.jpg",
+    "/teamspace/studios/this_studio/images/Winde/W200/F_FOTO_WINDE_5dc177f886d8c90001132688.jpg"
+  ]
+}

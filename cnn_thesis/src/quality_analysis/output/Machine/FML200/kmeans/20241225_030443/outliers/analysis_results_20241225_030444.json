@@ -1,0 +1,13 @@
+{
+  "timestamp": "20241225_030444",
+  "total_images": 153,
+  "optimal_clusters": 1,
+  "outliers_detected": 5,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_01ae7648-821f-4df2-b458-73198adf1965.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_5c515f6ce57a152fa5daa0e2.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_5d23400f27ac560001ac09db.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_5d26d1908ce5cb0001832048.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_71cbfc5e-7ff7-4324-9941-9d5863891358.jpg"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "timestamp": "20241224_234155",
+  "total_images": 284,
+  "optimal_clusters": 1,
+  "outliers_detected": 7,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/SLCLM12CD/F_FOTO_GB_0d30848f-014b-4a61-90f7-2c1d983c8cbb.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/SLCLM12CD/F_FOTO_GB_1261f28e-aae9-4404-b0e4-f5a833307682.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/SLCLM12CD/F_FOTO_GB_5d775082408e5b0001a76638.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/SLCLM12CD/F_FOTO_GB_5eec9edbbfdd7e73c34e507c.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/SLCLM12CD/F_FOTO_GB_5eeca0a274bb3b4cd3e4d14e.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/SLCLM12CD/F_FOTO_GB_ce1ead77-5090-4619-856a-7882adb74252.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/SLCLM12CD/F_FOTO_GB_f9112cd8-3d31-4f00-ad8f-62fed2529813.jpg"
+  ]
+}

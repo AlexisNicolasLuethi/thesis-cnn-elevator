@@ -1,0 +1,13 @@
+{
+  "timestamp": "20241224_191346",
+  "total_images": 208,
+  "optimal_clusters": 1,
+  "outliers_detected": 5,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Doordrive/Wittur Andere/F_FOTO_DOORDRIVE_08968a5b-9f16-43e3-901a-543c83518160.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Wittur Andere/F_FOTO_DOORDRIVE_0ba91a11-34a0-467d-87f6-0441e07687f5.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Wittur Andere/F_FOTO_DOORDRIVE_2e2a53a0-dd69-4ac6-8d68-7187bff6138d.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Wittur Andere/F_FOTO_DOORDRIVE_5c9deb99aec5a279de56b159.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Wittur Andere/F_FOTO_DOORDRIVE_5d5b9d4f1728fd0001a036bb.jpg"
+  ]
+}

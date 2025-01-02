@@ -1,0 +1,12 @@
+{
+  "timestamp": "20241225_084228",
+  "total_images": 103,
+  "optimal_clusters": 1,
+  "outliers_detected": 4,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/Miconic/F_FOTO_STEUERUNG_5cd00146944ec70001cbc275.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Miconic/F_FOTO_STEUERUNG_5cd2cac5343a5800017fc9d4.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Miconic/F_FOTO_STEUERUNG_5dd3b692179cfb0001630520.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Miconic/F_FOTO_STEUERUNG_5dd3d1b8786d1b000106588c.jpg"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "experiment": {
+    "name": "cnn_experiment",
+    "version": "Hydraulik",
+    "training_mode": "taguchi",
+    "_training_mode_description": {
+      "options": [
+        "taguchi",
+        "config_only"
+      ],
+      "description": "Set to 'taguchi' for parameter optimization or 'config_only' to use exact config values"
+    },
+    "log_dir": "experiments",
+    "random_seed": 42
+  },
+  "data": {
+    "data_dir": "/teamspace/s3_connections/masterarbeitalexisluethi/Hydraulik",
+    "img_size": [
+      224,
+      224
+    ],
+    "test_split": 0.2,
+    "images_per_category": 200,
+    "sampling": {
+      "enabled": false
+    },
+    "reproducible_loading": {
+      "deterministic": true,
+      "num_workers": 1
+    },
+    "actual_images_per_category": {
+      "Andere": 200,
+      "Beringer": 200,
+      "Bucher": 200,
+      "COAM": 115,
+      "GMV": 200,
+      "Gebauer": 200,
+      "Giehl": 0,
+      "Hydroware": 99
+    }
+  },
+  "model": {
+    "base": "VGG16",
+    "input_shape": [
+      224,
+      224,
+      3
+    ],
+    "dense_layers": [
+      1152
+    ],
+    "dropout_rate": 0.39,
+    "l2_regularization": 8e-05,
+    "activation_function": "relu",
+    "kernel_initializer": "he_normal",
+    "use_batch_norm": true,
+    "batch_norm_momentum": 0.999
+  },
+  "training": {
+    "learning_rate_decay": {
+      "enabled": false,
+      "factor": 0.1,
+      "patience": 8,
+      "min_lr": 1e-07,
+      "monitor": "val_loss"
+    },
+    "optimizer": "adam",
+    "learning_rate": 0.0005,
+    "optimizer_momentum": 0.4,
+    "batch_size": 72,
+    "epochs": 120,
+    "loss_function": "categorical_crossentropy",
+    "deterministic": true,
+    "early_stopping": {
+      "enabled": true,
+      "patience": 6,
+      "min_delta": 0.001,
+      "monitor": "val_loss",
+      "restore_best_weights": true
+    }
+  },
+  "data_augmentation": {
+    "enabled": false,
+    "rotation_range": 20,
+    "width_shift_range": 0.2,
+    "height_shift_range": 0.2,
+    "horizontal_flip": true,
+    "zoom_range": 0.15,
+    "deterministic": true
+  }
+}

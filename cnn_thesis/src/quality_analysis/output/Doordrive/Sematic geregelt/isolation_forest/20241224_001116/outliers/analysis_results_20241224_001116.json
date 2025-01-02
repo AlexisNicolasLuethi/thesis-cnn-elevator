@@ -1,0 +1,20 @@
+{
+  "timestamp": "20241224_001116",
+  "total_images": 120,
+  "optimal_clusters": 1,
+  "outliers_detected": 12,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Doordrive/Sematic geregelt/F_FOTO_DOORDRIVE_13a00abb-ffd6-4d89-b8ff-56b87be946cc.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Sematic geregelt/F_FOTO_DOORDRIVE_582bea99-fdfa-48b9-86c1-da6590a488bb.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Sematic geregelt/F_FOTO_DOORDRIVE_5c81411be57a154c66494dac.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Sematic geregelt/F_FOTO_DOORDRIVE_5c814149a6feee39f9f23de7.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Sematic geregelt/F_FOTO_DOORDRIVE_5c925db3aec5a2065199e577.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Sematic geregelt/F_FOTO_DOORDRIVE_5c926496aec5a206519b9dac.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Sematic geregelt/F_FOTO_DOORDRIVE_5cb49a5aaec5a2064ffa012b.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Sematic geregelt/F_FOTO_DOORDRIVE_5cd295c0236f4c000185a736.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Sematic geregelt/F_FOTO_DOORDRIVE_5ced51162daba4000131856b.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Sematic geregelt/F_FOTO_DOORDRIVE_5d2841c16dbcc50001450a43.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Sematic geregelt/F_FOTO_DOORDRIVE_5d2d7ac2d50de50001f8d6ea.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Sematic geregelt/F_FOTO_DOORDRIVE_ba3b1416-9948-4685-9391-1d11cee1d8e9.jpg"
+  ]
+}

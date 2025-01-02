@@ -1,0 +1,15 @@
+{
+    "experiment": 4,
+    "parameters_used": {
+        "learning_rate": 0.0003,
+        "batch_size": 16,
+        "dropout_rate": 0.4,
+        "l2_regularization": 0.01,
+        "dense_units": 512,
+        "epochs": 50,
+        "early_stopping_patience": 15,
+        "min_delta": 0.0001,
+        "data_augmentation_enabled": true
+    },
+    "validation_accuracy": 0.9047619104385376
+}

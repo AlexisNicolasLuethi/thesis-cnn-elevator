@@ -1,0 +1,19 @@
+{
+  "timestamp": "20241224_054405",
+  "total_images": 102,
+  "optimal_clusters": 1,
+  "outliers_detected": 11,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/HB32/F_FOTO_STEUERUNG_5b50895aa6feee05d7bf86aa.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HB32/F_FOTO_STEUERUNG_5bea9ab7e57a154e478b7d0b.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HB32/F_FOTO_STEUERUNG_5c474bf7a6feee1a652bb241.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HB32/F_FOTO_STEUERUNG_5c64419baec5a2368e8f7faf.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HB32/F_FOTO_STEUERUNG_5c6ac2cae57a151870c8baeb.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HB32/F_FOTO_STEUERUNG_5c7645d4aec5a20826385d8d.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HB32/F_FOTO_STEUERUNG_5cd27b40236f4c00017bf14e.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HB32/F_FOTO_STEUERUNG_5df25b78fc8eab286f3ee8f0.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HB32/F_FOTO_STEUERUNG_5df7c6e8cd8c6851868db1e8.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HB32/F_FOTO_STEUERUNG_5e7b6ca4eee83714d8cc8bc7.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HB32/F_FOTO_STEUERUNG_d7773762-ce63-4086-9dd4-82273541a078.jpg"
+  ]
+}

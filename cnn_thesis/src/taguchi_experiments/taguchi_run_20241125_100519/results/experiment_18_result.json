@@ -1,0 +1,19 @@
+{
+    "experiment": 18,
+    "parameters_used": {
+        "learning_rate": 0.0006,
+        "batch_size": 72,
+        "optimizer_momentum": 0.5,
+        "dropout_rate": 0.41,
+        "dense_units": 1088,
+        "epochs": 90,
+        "early_stopping_patience": 6,
+        "min_delta": 0.001,
+        "batch_norm_momentum": 0.99,
+        "kernel_initializer": "glorot_normal",
+        "activation_function": "relu",
+        "lr_decay_enabled": true,
+        "data_augmentation_enabled": true
+    },
+    "validation_accuracy": 0.7932584285736084
+}

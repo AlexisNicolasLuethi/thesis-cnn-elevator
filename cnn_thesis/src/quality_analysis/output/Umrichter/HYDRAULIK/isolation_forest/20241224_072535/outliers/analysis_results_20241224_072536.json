@@ -1,0 +1,19 @@
+{
+  "timestamp": "20241224_072536",
+  "total_images": 103,
+  "optimal_clusters": 1,
+  "outliers_detected": 11,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIK/F_FOTO_UMRICHTER_5ba4920de57a15080052e65c.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIK/F_FOTO_UMRICHTER_5bd9867ae57a151647fa5357.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIK/F_FOTO_UMRICHTER_5cb5f1caa6feee2523190216.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIK/F_FOTO_UMRICHTER_5d131380313ab1000102c95f.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIK/F_FOTO_UMRICHTER_5d4d5134a89b2c000163a408.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIK/F_FOTO_UMRICHTER_5d88a25d59b813000198317b.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIK/F_FOTO_UMRICHTER_5dc9511554930d00019dc3d3.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIK/F_FOTO_UMRICHTER_5dd535ef37f5b00001df744a.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIK/F_FOTO_UMRICHTER_5e2969da7c89340b7f7d2095.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIK/F_FOTO_UMRICHTER_5eb2af519da8021ef69e1922.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/HYDRAULIK/F_FOTO_UMRICHTER_6146bc02-0119-4460-b3f2-eb607fb84fab.jpg"
+  ]
+}

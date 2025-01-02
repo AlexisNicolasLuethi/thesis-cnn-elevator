@@ -1,0 +1,135 @@
+{
+  "Bode": {
+    "precision": 0.9534883720930233,
+    "recall": 0.8913043478260869,
+    "f1-score": 0.9213483146067417,
+    "support": 46
+  },
+  "EGB 001": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0
+  },
+  "GBP": {
+    "precision": 0.16666666666666666,
+    "recall": 0.16666666666666666,
+    "f1-score": 0.16666666666666666,
+    "support": 48
+  },
+  "GBP mit Fernausl\u00f6sung": {
+    "precision": 0.20689655172413793,
+    "recall": 0.1276595744680851,
+    "f1-score": 0.15789473684210525,
+    "support": 47
+  },
+  "GBP201": {
+    "precision": 0.027777777777777776,
+    "recall": 0.03571428571428571,
+    "f1-score": 0.03125,
+    "support": 28
+  },
+  "GBP202": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 39
+  },
+  "HJ 200": {
+    "precision": 0.07317073170731707,
+    "recall": 0.057692307692307696,
+    "f1-score": 0.06451612903225806,
+    "support": 52
+  },
+  "HJ 250": {
+    "precision": 0.07317073170731707,
+    "recall": 0.07894736842105263,
+    "f1-score": 0.0759493670886076,
+    "support": 38
+  },
+  "HJ 300": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 42
+  },
+  "HJ200": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 31
+  },
+  "LK200": {
+    "precision": 0.18181818181818182,
+    "recall": 0.14285714285714285,
+    "f1-score": 0.16,
+    "support": 42
+  },
+  "LK250": {
+    "precision": 0.11428571428571428,
+    "recall": 0.125,
+    "f1-score": 0.11940298507462688,
+    "support": 32
+  },
+  "LK300": {
+    "precision": 0.034482758620689655,
+    "recall": 0.02857142857142857,
+    "f1-score": 0.03125,
+    "support": 35
+  },
+  "Orona": {
+    "precision": 0.02,
+    "recall": 0.03571428571428571,
+    "f1-score": 0.02564102564102564,
+    "support": 28
+  },
+  "Otis": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 47
+  },
+  "PFB": {
+    "precision": 0.17857142857142858,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.23255813953488372,
+    "support": 30
+  },
+  "PFB R5": {
+    "precision": 0.027777777777777776,
+    "recall": 0.029411764705882353,
+    "f1-score": 0.02857142857142857,
+    "support": 34
+  },
+  "SLCLM12CD": {
+    "precision": 0.03125,
+    "recall": 0.02702702702702703,
+    "f1-score": 0.028985507246376812,
+    "support": 37
+  },
+  "SLCLM18CD": {
+    "precision": 0.044444444444444446,
+    "recall": 0.05405405405405406,
+    "f1-score": 0.04878048780487805,
+    "support": 37
+  },
+  "STAR": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 39
+  },
+  "accuracy": 0.12021857923497267,
+  "macro avg": {
+    "precision": 0.10669005685972381,
+    "recall": 0.10669767935258193,
+    "f1-score": 0.10464073940547995,
+    "support": 732
+  },
+  "weighted avg": {
+    "precision": 0.12446780255466154,
+    "recall": 0.12021857923497267,
+    "f1-score": 0.12035122756453807,
+    "support": 732
+  }
+}

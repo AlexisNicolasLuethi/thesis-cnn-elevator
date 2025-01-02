@@ -1,0 +1,12 @@
+{
+  "timestamp": "20241224_233104",
+  "total_images": 199,
+  "optimal_clusters": 1,
+  "outliers_detected": 4,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/Otis/F_FOTO_GB_4f423606-2bce-4858-b0d6-1fd2338d010f.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/Otis/F_FOTO_GB_5c779926aec5a231c64107ca.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/Otis/F_FOTO_GB_5d91c2767e7a1d0001be2c18.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/Otis/F_FOTO_GB_87508298-5b84-4e02-b3fc-08d8d824297e.jpg"
+  ]
+}

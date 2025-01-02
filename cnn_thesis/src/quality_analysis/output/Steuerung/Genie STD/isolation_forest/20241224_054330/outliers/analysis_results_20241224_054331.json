@@ -1,0 +1,19 @@
+{
+  "timestamp": "20241224_054331",
+  "total_images": 109,
+  "optimal_clusters": 1,
+  "outliers_detected": 11,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/Genie STD/F_FOTO_STEUERUNG_5bf80c075da3d50548a009fa.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Genie STD/F_FOTO_STEUERUNG_5c3da882e57a155ad5478757.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Genie STD/F_FOTO_STEUERUNG_5c496b325da3d52ca640f114.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Genie STD/F_FOTO_STEUERUNG_5c6bcde7a6feee4ee86b19c0.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Genie STD/F_FOTO_STEUERUNG_5c779a4eaec5a231c6411873.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Genie STD/F_FOTO_STEUERUNG_5c88fb72aec5a2064c17965f.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Genie STD/F_FOTO_STEUERUNG_5cb6c7955da3d50647682cd3.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Genie STD/F_FOTO_STEUERUNG_5cd295be236f4c000185a6f0.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Genie STD/F_FOTO_STEUERUNG_5cdc22482586f700015df5ae.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Genie STD/F_FOTO_STEUERUNG_5cebaba115779c00015be559.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Genie STD/F_FOTO_STEUERUNG_5cf8e37c2642a80001762bc3.jpg"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "timestamp": "20241224_155212",
+  "total_images": 224,
+  "optimal_clusters": 1,
+  "outliers_detected": 4,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Doordrive/Meiller-geregelt/F_FOTO_DOORDRIVE_1b95984a-9a29-45a5-9432-f259276ff1f1.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Meiller-geregelt/F_FOTO_DOORDRIVE_5b8cdf3fe57a15336049b78b.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Meiller-geregelt/F_FOTO_DOORDRIVE_5c3f483e5da3d57a6ee45e9d.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Meiller-geregelt/F_FOTO_DOORDRIVE_80fddc5c-a042-46eb-9a05-fac4fcb5e9ec.jpg"
+  ]
+}

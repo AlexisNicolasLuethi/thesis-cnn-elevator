@@ -1,0 +1,213 @@
+{
+  "085": {
+    "precision": 0.6521739130434783,
+    "recall": 0.6818181818181818,
+    "f1-score": 0.6666666666666666,
+    "support": 22
+  },
+  "Europa": {
+    "precision": 0.6666666666666666,
+    "recall": 0.5185185185185185,
+    "f1-score": 0.5833333333333334,
+    "support": 27
+  },
+  "FERMATOR COMPACT": {
+    "precision": 0.5740740740740741,
+    "recall": 0.6048780487804878,
+    "f1-score": 0.5890736342042755,
+    "support": 205
+  },
+  "FERMATOR PERMANT MAGNET": {
+    "precision": 0.776595744680851,
+    "recall": 0.6293103448275862,
+    "f1-score": 0.6952380952380952,
+    "support": 116
+  },
+  "Fermator": {
+    "precision": 0.3968253968253968,
+    "recall": 0.23809523809523808,
+    "f1-score": 0.2976190476190476,
+    "support": 105
+  },
+  "Fermator Andere": {
+    "precision": 0.3050314465408805,
+    "recall": 0.46190476190476193,
+    "f1-score": 0.36742424242424243,
+    "support": 210
+  },
+  "Fermator Compact": {
+    "precision": 0.35542168674698793,
+    "recall": 0.2935323383084577,
+    "f1-score": 0.3215258855585831,
+    "support": 201
+  },
+  "L&L (AGA)": {
+    "precision": 0.42857142857142855,
+    "recall": 0.4090909090909091,
+    "f1-score": 0.4186046511627907,
+    "support": 44
+  },
+  "Meiller Rolltor Genius": {
+    "precision": 0.7222222222222222,
+    "recall": 0.28888888888888886,
+    "f1-score": 0.4126984126984127,
+    "support": 45
+  },
+  "Meiller Spindelantrieb (TTK5, TTK6, TTK8)": {
+    "precision": 0.753968253968254,
+    "recall": 0.7983193277310925,
+    "f1-score": 0.7755102040816326,
+    "support": 119
+  },
+  "Meiller-geregelt": {
+    "precision": 0.5128205128205128,
+    "recall": 0.46511627906976744,
+    "f1-score": 0.4878048780487805,
+    "support": 43
+  },
+  "OTIS-mit Regelung": {
+    "precision": 0.6326530612244898,
+    "recall": 0.6739130434782609,
+    "f1-score": 0.6526315789473685,
+    "support": 46
+  },
+  "OTIS-ohne Regelung": {
+    "precision": 0.6129032258064516,
+    "recall": 0.5277777777777778,
+    "f1-score": 0.5671641791044777,
+    "support": 36
+  },
+  "QKS11-mit Regelung": {
+    "precision": 0.3888888888888889,
+    "recall": 0.2413793103448276,
+    "f1-score": 0.2978723404255319,
+    "support": 29
+  },
+  "QKS11-ohne Regelung": {
+    "precision": 0.7053571428571429,
+    "recall": 0.7247706422018348,
+    "f1-score": 0.7149321266968326,
+    "support": 109
+  },
+  "QKS8": {
+    "precision": 0.865979381443299,
+    "recall": 0.8795811518324608,
+    "f1-score": 0.8727272727272728,
+    "support": 191
+  },
+  "QKS9": {
+    "precision": 0.7954545454545454,
+    "recall": 0.6481481481481481,
+    "f1-score": 0.7142857142857143,
+    "support": 54
+  },
+  "SEMATIC": {
+    "precision": 0.5409836065573771,
+    "recall": 0.6910994764397905,
+    "f1-score": 0.606896551724138,
+    "support": 191
+  },
+  "SEMATIC C-MOD": {
+    "precision": 0.4,
+    "recall": 0.19047619047619047,
+    "f1-score": 0.25806451612903225,
+    "support": 21
+  },
+  "Selcom": {
+    "precision": 0.92,
+    "recall": 0.6388888888888888,
+    "f1-score": 0.7540983606557377,
+    "support": 72
+  },
+  "Sematic": {
+    "precision": 0.2857142857142857,
+    "recall": 0.2537313432835821,
+    "f1-score": 0.26877470355731226,
+    "support": 134
+  },
+  "Sematic 2000-mit Regelung": {
+    "precision": 0.3219814241486068,
+    "recall": 0.5502645502645502,
+    "f1-score": 0.40625,
+    "support": 189
+  },
+  "Sematic Andere": {
+    "precision": 0.285,
+    "recall": 0.2780487804878049,
+    "f1-score": 0.2814814814814815,
+    "support": 205
+  },
+  "Sematic C-MOD-mit Regelung": {
+    "precision": 0.40458015267175573,
+    "recall": 0.33125,
+    "f1-score": 0.3642611683848797,
+    "support": 160
+  },
+  "Sematic geregelt": {
+    "precision": 0.4166666666666667,
+    "recall": 0.25,
+    "f1-score": 0.3125,
+    "support": 20
+  },
+  "Sematic-ohne Regelung": {
+    "precision": 0.5789473684210527,
+    "recall": 0.14102564102564102,
+    "f1-score": 0.22680412371134023,
+    "support": 78
+  },
+  "Slycma": {
+    "precision": 0.8333333333333334,
+    "recall": 0.29411764705882354,
+    "f1-score": 0.4347826086956522,
+    "support": 17
+  },
+  "VARIDOR 15": {
+    "precision": 0.7630331753554502,
+    "recall": 0.8702702702702703,
+    "f1-score": 0.8131313131313131,
+    "support": 185
+  },
+  "VARIDOR 35": {
+    "precision": 0.8461538461538461,
+    "recall": 0.6111111111111112,
+    "f1-score": 0.7096774193548387,
+    "support": 36
+  },
+  "WITTUR FINE LINE": {
+    "precision": 0.6451612903225806,
+    "recall": 0.4878048780487805,
+    "f1-score": 0.5555555555555556,
+    "support": 41
+  },
+  "Wittur Andere": {
+    "precision": 0.43243243243243246,
+    "recall": 0.38095238095238093,
+    "f1-score": 0.4050632911392405,
+    "support": 42
+  },
+  "Wittur FineLine-mit Regelung": {
+    "precision": 0.5238095238095238,
+    "recall": 0.43137254901960786,
+    "f1-score": 0.4731182795698925,
+    "support": 51
+  },
+  "Wittur Hydra-mit Regelung": {
+    "precision": 0.3888888888888889,
+    "recall": 0.7777777777777778,
+    "f1-score": 0.5185185185185185,
+    "support": 9
+  },
+  "accuracy": 0.5211267605633803,
+  "macro avg": {
+    "precision": 0.5676452601912537,
+    "recall": 0.4928252847249212,
+    "f1-score": 0.5098209137827876,
+    "support": 3053
+  },
+  "weighted avg": {
+    "precision": 0.5379859787145423,
+    "recall": 0.5211267605633803,
+    "f1-score": 0.516766722037942,
+    "support": 3053
+  }
+}

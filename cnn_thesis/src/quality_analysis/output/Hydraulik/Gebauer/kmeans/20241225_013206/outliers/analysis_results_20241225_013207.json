@@ -1,0 +1,14 @@
+{
+  "timestamp": "20241225_013207",
+  "total_images": 286,
+  "optimal_clusters": 1,
+  "outliers_detected": 6,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Hydraulik/Gebauer/F_FOTO_HYDRAULIK_5c077e4eaec5a26f4572700e.jpg",
+    "/teamspace/studios/this_studio/images/Hydraulik/Gebauer/F_FOTO_HYDRAULIK_5c3ef347e57a1518cbf66aa0.jpg",
+    "/teamspace/studios/this_studio/images/Hydraulik/Gebauer/F_FOTO_HYDRAULIK_5da46007a2c8290001f670fd.jpg",
+    "/teamspace/studios/this_studio/images/Hydraulik/Gebauer/F_FOTO_HYDRAULIK_5da46d15a8d52b0001eb5565.jpg",
+    "/teamspace/studios/this_studio/images/Hydraulik/Gebauer/F_FOTO_HYDRAULIK_5ddf7cdea609220001921983.jpg",
+    "/teamspace/studios/this_studio/images/Hydraulik/Gebauer/F_FOTO_HYDRAULIK_5de0e15df3cdaf737b40fa45.jpg"
+  ]
+}

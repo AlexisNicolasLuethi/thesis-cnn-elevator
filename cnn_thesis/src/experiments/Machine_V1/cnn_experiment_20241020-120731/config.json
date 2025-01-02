@@ -1,0 +1,56 @@
+{
+  "experiment": {
+    "name": "cnn_experiment",
+    "log_dir": "experiments"
+  },
+  "data": {
+    "data_dir": "/teamspace/uploads",
+    "img_size": [
+      224,
+      224
+    ],
+    "test_split": 0.2,
+    "images_per_category": 600,
+    "sampling": {
+      "enabled": true,
+      "method": "smote",
+      "strategy": "auto"
+    },
+    "actual_images_per_category": {
+      "FMB130-4A": 600,
+      "FMB130-4B": 600,
+      "FMB130-4C": 600,
+      "SGB142": 600,
+      "Z244S": 600,
+      "Zetatop SM 200": 515
+    }
+  },
+  "model": {
+    "base": "VGG16",
+    "input_shape": [
+      224,
+      224,
+      3
+    ],
+    "dense_layers": [
+      1024,
+      512
+    ],
+    "dropout_rate": 0.5
+  },
+  "training": {
+    "optimizer": "adam",
+    "learning_rate": 0.001,
+    "batch_size": 32,
+    "epochs": 10
+  },
+  "data_augmentation": {
+    "enabled": true,
+    "rotation_range": 20,
+    "width_shift_range": 0.2,
+    "height_shift_range": 0.2,
+    "horizontal_flip": true,
+    "vertical_flip": false,
+    "zoom_range": 0.2
+  }
+}

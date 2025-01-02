@@ -1,0 +1,11 @@
+{
+  "timestamp": "20241225_124737",
+  "total_images": 123,
+  "optimal_clusters": 1,
+  "outliers_detected": 3,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5c519763a6feee7b5f8952da.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5c51987b5da3d53f76f18c47.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/BIODYN VF42CBR/F_FOTO_UMRICHTER_5cda85770138eb0001457019.jpg"
+  ]
+}

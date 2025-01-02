@@ -1,0 +1,11 @@
+{
+  "timestamp": "20241225_072432",
+  "total_images": 227,
+  "optimal_clusters": 1,
+  "outliers_detected": 3,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/FST-2 XT/F_FOTO_STEUERUNG_5d554b7d6823c10001bca49f.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/FST-2 XT/F_FOTO_STEUERUNG_5d70c6cff34eef0001d2c524.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/FST-2 XT/F_FOTO_STEUERUNG_5da5937ba8d52b0001ec628c.jpg"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "timestamp": "20241225_141454",
+  "total_images": 138,
+  "optimal_clusters": 1,
+  "outliers_detected": 3,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Winde/GZ1/4/F_FOTO_WINDE_5ba1fbeee57a150800154233.jpg",
+    "/teamspace/studios/this_studio/images/Winde/GZ1/4/F_FOTO_WINDE_5cffb3aeb5632d0001a37693.jpg",
+    "/teamspace/studios/this_studio/images/Winde/GZ1/4/F_FOTO_WINDE_5d1df24bf1ab4200014a57ef.jpg"
+  ]
+}

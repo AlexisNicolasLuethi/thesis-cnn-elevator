@@ -1,0 +1,13 @@
+{
+  "timestamp": "20241225_080016",
+  "total_images": 173,
+  "optimal_clusters": 1,
+  "outliers_detected": 5,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/MCS 220/F_FOTO_STEUERUNG_3da945f9-e391-4198-a14b-2f7af47d7a05.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MCS 220/F_FOTO_STEUERUNG_5ce4e4d268160d00011882d2.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MCS 220/F_FOTO_STEUERUNG_5ce4ea6268160d00011a4fa9.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MCS 220/F_FOTO_STEUERUNG_5e67b1c575ecdf75bf4a9b46.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MCS 220/F_FOTO_STEUERUNG_91dc39a2-4da6-4b77-8c49-6124882f4c7a.jpg"
+  ]
+}

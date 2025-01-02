@@ -1,0 +1,10 @@
+{
+  "timestamp": "20241225_030703",
+  "total_images": 181,
+  "optimal_clusters": 1,
+  "outliers_detected": 2,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Machine/PMS420/F_FOTO_MASCHINE_5be29bbda6feee63f7c35eb2.jpg",
+    "/teamspace/studios/this_studio/images/Machine/PMS420/F_FOTO_MASCHINE_5ca5a752e57a15618ce789f9.jpg"
+  ]
+}

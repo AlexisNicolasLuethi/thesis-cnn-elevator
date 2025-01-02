@@ -1,0 +1,11 @@
+{
+  "timestamp": "20241225_100051",
+  "total_images": 96,
+  "optimal_clusters": 1,
+  "outliers_detected": 3,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/SC1/F_FOTO_STEUERUNG_afd2752f-0c1f-4783-a48d-7c43e2530653.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/SC1/F_FOTO_STEUERUNG_ce637576-b80d-4bf6-aa89-81f0e59b8aba.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/SC1/F_FOTO_STEUERUNG_e6742158-4ae9-48e1-ae76-5378dea5afbe.jpg"
+  ]
+}

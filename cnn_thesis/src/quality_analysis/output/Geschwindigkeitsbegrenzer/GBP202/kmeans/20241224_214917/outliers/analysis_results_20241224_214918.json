@@ -1,0 +1,12 @@
+{
+  "timestamp": "20241224_214918",
+  "total_images": 203,
+  "optimal_clusters": 1,
+  "outliers_detected": 4,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/GBP202/F_FOTO_GB_5c77ab28a6feee26ef3e310a.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/GBP202/F_FOTO_GB_5cf675019d2f250001323559.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/GBP202/F_FOTO_GB_5cf6768c9d2f250001324911.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/GBP202/F_FOTO_GB_5d3e996f70bc6c00015f88d1.jpg"
+  ]
+}

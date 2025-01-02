@@ -1,0 +1,81 @@
+{
+    "experiment": {
+        "name": "cnn_experiment",
+        "version": "Umrichter",
+        "training_mode": "taguchi",
+        "_training_mode_description": {
+            "options": [
+                "taguchi",
+                "config_only"
+            ],
+            "description": "Set to 'taguchi' for parameter optimization or 'config_only' to use exact config values"
+        },
+        "log_dir": "experiments",
+        "random_seed": 42
+    },
+    "data": {
+        "data_dir": "/teamspace/s3_connections/masterarbeitalexisluethi/Umrichter",
+        "img_size": [
+            224,
+            224
+        ],
+        "test_split": 0.2,
+        "images_per_category": 200,
+        "sampling": {
+            "enabled": false
+        },
+        "reproducible_loading": {
+            "deterministic": true,
+            "num_workers": 1
+        }
+    },
+    "model": {
+        "base": "VGG16",
+        "input_shape": [
+            224,
+            224,
+            3
+        ],
+        "dense_layers": [
+            1024
+        ],
+        "dropout_rate": 0.4,
+        "l2_regularization": 8e-05,
+        "activation_function": "selu",
+        "kernel_initializer": "glorot_uniform",
+        "use_batch_norm": true,
+        "batch_norm_momentum": 0.995
+    },
+    "training": {
+        "learning_rate_decay": {
+            "enabled": false,
+            "factor": 0.1,
+            "patience": 8,
+            "min_lr": 1e-07,
+            "monitor": "val_loss"
+        },
+        "optimizer": "adam",
+        "learning_rate": 0.0006,
+        "optimizer_momentum": 0.5,
+        "batch_size": 76,
+        "epochs": 100,
+        "loss_function": "categorical_crossentropy",
+        "deterministic": true,
+        "early_stopping": {
+            "enabled": true,
+            "patience": 5,
+            "min_delta": 0.0009,
+            "monitor": "val_loss",
+            "restore_best_weights": true
+        }
+    },
+    "data_augmentation": {
+        "enabled": true,
+        "rotation_range": 20,
+        "width_shift_range": 0.2,
+        "height_shift_range": 0.2,
+        "horizontal_flip": true,
+        "zoom_range": 0.15,
+        "deterministic": true
+    }
+}

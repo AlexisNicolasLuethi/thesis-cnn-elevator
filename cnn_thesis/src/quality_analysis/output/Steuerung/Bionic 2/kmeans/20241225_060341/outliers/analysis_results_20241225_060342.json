@@ -1,0 +1,14 @@
+{
+  "timestamp": "20241225_060342",
+  "total_images": 220,
+  "optimal_clusters": 1,
+  "outliers_detected": 6,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5c629742a6feee1fc24c5592.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5c80d5e8a6feee39f9e501b6.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5c90b5d9e57a154893c88b06.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5d63a96eaab2d70001dc2a65.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5d63ba136edec00001f413e8.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Bionic 2/F_FOTO_STEUERUNG_5d7f78ab48050b0001f16b33.jpg"
+  ]
+}

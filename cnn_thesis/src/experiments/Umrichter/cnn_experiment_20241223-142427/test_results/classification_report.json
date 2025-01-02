@@ -1,0 +1,122 @@
+{
+  "1 VITESSE": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "2 VITESSES": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 10
+  },
+  "AC DUE VELOCITA'": {
+    "precision": 0.8,
+    "recall": 0.5714285714285714,
+    "f1-score": 0.6666666666666666,
+    "support": 7
+  },
+  "AC UNA VELOCITA'": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0
+  },
+  "ALTRO": {
+    "precision": 0.5,
+    "recall": 0.4,
+    "f1-score": 0.4444444444444445,
+    "support": 15
+  },
+  "BIODYN VF12CBR": {
+    "precision": 0.9073170731707317,
+    "recall": 0.9393939393939394,
+    "f1-score": 0.9230769230769231,
+    "support": 198
+  },
+  "BIODYN VF25CBR": {
+    "precision": 0.9142857142857143,
+    "recall": 0.9458128078817734,
+    "f1-score": 0.929782082324455,
+    "support": 203
+  },
+  "BIODYN VF42CBR": {
+    "precision": 0.9523809523809523,
+    "recall": 0.9090909090909091,
+    "f1-score": 0.9302325581395349,
+    "support": 22
+  },
+  "CT UNIDRIVE SP": {
+    "precision": 0.7894736842105263,
+    "recall": 0.967741935483871,
+    "f1-score": 0.8695652173913043,
+    "support": 31
+  },
+  "EINGESCHWINDIGKEIT": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "FEINABSTELLER": {
+    "precision": 0.5,
+    "recall": 0.3076923076923077,
+    "f1-score": 0.380952380952381,
+    "support": 26
+  },
+  "HYDRAULIC": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "HYDRAULIK": {
+    "precision": 0.5555555555555556,
+    "recall": 0.5882352941176471,
+    "f1-score": 0.5714285714285715,
+    "support": 17
+  },
+  "VAF013 (VARIODYN)": {
+    "precision": 0.9619047619047619,
+    "recall": 0.9805825242718447,
+    "f1-score": 0.9711538461538461,
+    "support": 103
+  },
+  "VARIODYN 33 BR": {
+    "precision": 0.9032258064516129,
+    "recall": 0.9032258064516129,
+    "f1-score": 0.9032258064516129,
+    "support": 31
+  },
+  "ZIEHL-ABEGG ZETADYN": {
+    "precision": 0.6666666666666666,
+    "recall": 0.7058823529411765,
+    "f1-score": 0.6857142857142857,
+    "support": 17
+  },
+  "ZIEHL-ABEGG ZETADYN 4": {
+    "precision": 0.875,
+    "recall": 0.9210526315789473,
+    "f1-score": 0.8974358974358975,
+    "support": 38
+  },
+  "micro avg": {
+    "precision": 0.88,
+    "recall": 0.88,
+    "f1-score": 0.88,
+    "support": 725
+  },
+  "macro avg": {
+    "precision": 0.6662241302721483,
+    "recall": 0.5964787694313295,
+    "f1-score": 0.6180595302066623,
+    "support": 725
+  },
+  "weighted avg": {
+    "precision": 0.8687983640064556,
+    "recall": 0.88,
+    "f1-score": 0.8712794007796268,
+    "support": 725
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "timestamp": "20241225_075038",
+  "total_images": 113,
+  "optimal_clusters": 1,
+  "outliers_detected": 2,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/Hartmann/F_FOTO_STEUERUNG_5c62ce23a6feee1fc252cfa2.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Hartmann/F_FOTO_STEUERUNG_5d131a34313ab100010316e7.jpg"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "timestamp": "20241225_132657",
+  "total_images": 96,
+  "optimal_clusters": 1,
+  "outliers_detected": 3,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Umrichter/ZIEHL-ABEGG ZETADYN/F_FOTO_UMRICHTER_5ebd0cf66647ec2fcbced744.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/ZIEHL-ABEGG ZETADYN/F_FOTO_UMRICHTER_7387e08a-a90a-4e9d-93c0-d0313d4039d0.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/ZIEHL-ABEGG ZETADYN/F_FOTO_UMRICHTER_bc97f92d-6153-4a66-b95a-be5f445ecdcf.jpg"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "timestamp": "20241224_054615",
+  "total_images": 113,
+  "optimal_clusters": 1,
+  "outliers_detected": 12,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/Hartmann/F_FOTO_STEUERUNG_5ba0f8e9e57a15080007248f.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Hartmann/F_FOTO_STEUERUNG_5ba100bfa6feee085158709b.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Hartmann/F_FOTO_STEUERUNG_5badfaf8a6feee0546c6c92f.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Hartmann/F_FOTO_STEUERUNG_5bb68359e57a150639fd0a7f.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Hartmann/F_FOTO_STEUERUNG_5bd01ce9a6feee7ae377ff60.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Hartmann/F_FOTO_STEUERUNG_5be95452a6feee0f7638d11e.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Hartmann/F_FOTO_STEUERUNG_5be955a7aec5a25b658e2357.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Hartmann/F_FOTO_STEUERUNG_5bedede7aec5a2051d5ea0c6.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Hartmann/F_FOTO_STEUERUNG_5c62ce23a6feee1fc252cfa2.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Hartmann/F_FOTO_STEUERUNG_5ccaf65922135200011ef52c.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Hartmann/F_FOTO_STEUERUNG_5ce3c2162a37ff00016e879f.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Hartmann/F_FOTO_STEUERUNG_5ebd5162b49299425f2278c7.jpg"
+  ]
+}

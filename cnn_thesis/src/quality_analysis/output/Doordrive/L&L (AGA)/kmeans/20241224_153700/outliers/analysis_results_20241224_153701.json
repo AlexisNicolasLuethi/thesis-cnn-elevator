@@ -1,0 +1,13 @@
+{
+  "timestamp": "20241224_153701",
+  "total_images": 182,
+  "optimal_clusters": 1,
+  "outliers_detected": 5,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Doordrive/L&L (AGA)/F_FOTO_DOORDRIVE_5b59b5a1a6feee27d1808995.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/L&L (AGA)/F_FOTO_DOORDRIVE_5be599b05da3d540c0642109.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/L&L (AGA)/F_FOTO_DOORDRIVE_5d8356bf59b813000193b44b.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/L&L (AGA)/F_FOTO_DOORDRIVE_5ecbf2db-7c75-4547-a154-db50ca21b123.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/L&L (AGA)/F_FOTO_DOORDRIVE_5f8ed9c89400be1413e4188b.jpg"
+  ]
+}

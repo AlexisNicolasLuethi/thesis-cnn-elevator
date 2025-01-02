@@ -1,0 +1,67 @@
+{
+  "experiment": {
+    "name": "Undersampling with VGG16",
+    "log_dir": "experiments",
+    "random_seed": 42
+  },
+  "data": {
+    "data_dir": "/teamspace/uploads",
+    "img_size": [
+      224,
+      224
+    ],
+    "test_split": 0.2,
+    "images_per_category": 515,
+    "sampling": {
+      "enabled": true,
+      "method": "undersample",
+      "strategy": "not minority"
+    },
+    "actual_images_per_category": {
+      "FMB130-4A": 515,
+      "FMB130-4B": 515,
+      "FMB130-4C": 515,
+      "SGB142": 515,
+      "Z244S": 515,
+      "Zetatop SM 200": 515
+    }
+  },
+  "model": {
+    "base": "VGG16",
+    "input_shape": [
+      224,
+      224,
+      3
+    ],
+    "dense_layers": [
+      1024,
+      512
+    ],
+    "dropout_rate": 0.5,
+    "l2_regularization": 0.01,
+    "activation_function": "relu"
+  },
+  "training": {
+    "optimizer": "adam",
+    "learning_rate": 0.001,
+    "batch_size": 32,
+    "epochs": 30,
+    "loss_function": "categorical_crossentropy",
+    "early_stopping": {
+      "enabled": true,
+      "monitor": "val_loss",
+      "patience": 5,
+      "min_delta": 0.001,
+      "restore_best_weights": true
+    }
+  },
+  "data_augmentation": {
+    "enabled": true,
+    "rotation_range": 20,
+    "width_shift_range": 0.2,
+    "height_shift_range": 0.2,
+    "horizontal_flip": true,
+    "vertical_flip": false,
+    "zoom_range": 0.2
+  }
+}

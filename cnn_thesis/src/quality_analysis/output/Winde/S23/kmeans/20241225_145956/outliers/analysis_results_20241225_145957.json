@@ -1,0 +1,12 @@
+{
+  "timestamp": "20241225_145957",
+  "total_images": 122,
+  "optimal_clusters": 1,
+  "outliers_detected": 4,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Winde/S23/F_FOTO_WINDE_30cd9d4a-0615-4197-99f0-b53fbdc24082.jpg",
+    "/teamspace/studios/this_studio/images/Winde/S23/F_FOTO_WINDE_5c6a6d4de57a151870c17a34.jpg",
+    "/teamspace/studios/this_studio/images/Winde/S23/F_FOTO_WINDE_5cece1ea2daba400010abf79.jpg",
+    "/teamspace/studios/this_studio/images/Winde/S23/F_FOTO_WINDE_d02ad11c-95b6-4343-9836-23e88ae5b3a6.jpg"
+  ]
+}

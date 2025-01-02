@@ -1,0 +1,14 @@
+{
+  "timestamp": "20241225_040919",
+  "total_images": 174,
+  "optimal_clusters": 1,
+  "outliers_detected": 6,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/Arca 2/F_FOTO_STEUERUNG_49ebd6aa-6b39-476e-b3e4-4f200740e01d.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Arca 2/F_FOTO_STEUERUNG_5ce7e1a115779c00014c1d0b.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Arca 2/F_FOTO_STEUERUNG_5d1cae5fd2823c00017b20bd.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Arca 2/F_FOTO_STEUERUNG_8a9e22d9-604b-4124-99e1-1163c7018cbe.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Arca 2/F_FOTO_STEUERUNG_ba3955aa-eb20-4877-96bf-57489fc2c72d.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Arca 2/F_FOTO_STEUERUNG_d60261e8-6191-49a7-b1cb-9ad45860a96c.jpg"
+  ]
+}

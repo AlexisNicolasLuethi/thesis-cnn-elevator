@@ -1,0 +1,19 @@
+{
+  "timestamp": "20241224_224234",
+  "total_images": 511,
+  "optimal_clusters": 1,
+  "outliers_detected": 11,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/HJ 250/F_FOTO_GB_5b850130aec5a22e505daa19.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/HJ 250/F_FOTO_GB_5bd168ebe57a1574a8e4781d.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/HJ 250/F_FOTO_GB_5bf2afabaec5a23d7574d1c5.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/HJ 250/F_FOTO_GB_5c0a469eaec5a26f45b25a70.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/HJ 250/F_FOTO_GB_5c497cd7e57a157fb3098461.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/HJ 250/F_FOTO_GB_5c7f7b065da3d576e938fc2f.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/HJ 250/F_FOTO_GB_5c99eea3a6feee0652cde557.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/HJ 250/F_FOTO_GB_5d131382313ab1000102c96d.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/HJ 250/F_FOTO_GB_5dce5722ce0b3300017f8b48.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/HJ 250/F_FOTO_GB_5ddd4771c2199d00019196e8.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/HJ 250/F_FOTO_GB_5ec50015827e9c723da06954.jpg"
+  ]
+}

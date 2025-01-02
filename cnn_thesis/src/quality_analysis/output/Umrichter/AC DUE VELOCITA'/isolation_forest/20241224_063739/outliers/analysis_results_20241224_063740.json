@@ -1,0 +1,12 @@
+{
+  "timestamp": "20241224_063740",
+  "total_images": 32,
+  "optimal_clusters": 1,
+  "outliers_detected": 4,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Umrichter/AC DUE VELOCITA'/F_FOTO_UMRICHTER_5bac94bca6feee0546a4bcf5.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/AC DUE VELOCITA'/F_FOTO_UMRICHTER_5bea8d1aaec5a25b65a48594.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/AC DUE VELOCITA'/F_FOTO_UMRICHTER_5cb702705da3d5064772a066.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/AC DUE VELOCITA'/F_FOTO_UMRICHTER_5cc3138eaec5a256d9946ee4.jpg"
+  ]
+}

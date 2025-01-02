@@ -1,0 +1,20 @@
+{
+  "timestamp": "20241224_072448",
+  "total_images": 117,
+  "optimal_clusters": 1,
+  "outliers_detected": 12,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Umrichter/FEINABSTELLER/F_FOTO_UMRICHTER_5b9a5615e57a150800e927a8.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/FEINABSTELLER/F_FOTO_UMRICHTER_5baa2ba45da3d50520397ed5.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/FEINABSTELLER/F_FOTO_UMRICHTER_5beaa2b3a6feee0f7652d5b0.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/FEINABSTELLER/F_FOTO_UMRICHTER_5bf6b881e57a15532cbc423b.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/FEINABSTELLER/F_FOTO_UMRICHTER_5bfbb801a6feee053846ee27.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/FEINABSTELLER/F_FOTO_UMRICHTER_5bfd3e69e57a15532c327a41.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/FEINABSTELLER/F_FOTO_UMRICHTER_5c33106f5da3d51519812868.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/FEINABSTELLER/F_FOTO_UMRICHTER_5c5d9fa2aec5a21efb8faf18.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/FEINABSTELLER/F_FOTO_UMRICHTER_5c66c0f6a6feee4ee8f40a7d.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/FEINABSTELLER/F_FOTO_UMRICHTER_5c8654bee57a15082147eac8.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/FEINABSTELLER/F_FOTO_UMRICHTER_5d7f242d48050b0001f0f96f.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/FEINABSTELLER/F_FOTO_UMRICHTER_5d80cce8541f0f000108a94c.jpg"
+  ]
+}

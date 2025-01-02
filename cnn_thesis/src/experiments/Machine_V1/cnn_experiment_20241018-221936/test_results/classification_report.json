@@ -1,0 +1,51 @@
+{
+  "FMB130-4A": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 552
+  },
+  "FMB130-4B": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1001
+  },
+  "FMB130-4C": {
+    "precision": 0.6666666666666666,
+    "recall": 0.032520325203252036,
+    "f1-score": 0.062015503875969,
+    "support": 123
+  },
+  "SGB142": {
+    "precision": 1.0,
+    "recall": 0.2827586206896552,
+    "f1-score": 0.4408602150537635,
+    "support": 145
+  },
+  "Z244S": {
+    "precision": 0.9927272727272727,
+    "recall": 0.861198738170347,
+    "f1-score": 0.9222972972972973,
+    "support": 317
+  },
+  "Zetatop SM 200": {
+    "precision": 0.05465903175429464,
+    "recall": 1.0,
+    "f1-score": 0.10365251727541955,
+    "support": 105
+  },
+  "accuracy": 0.18858671422202408,
+  "macro avg": {
+    "precision": 0.452342161858039,
+    "recall": 0.36274628067720904,
+    "f1-score": 0.25480425558374153,
+    "support": 2243
+  },
+  "weighted avg": {
+    "precision": 0.24406319384250846,
+    "recall": 0.18858671422202408,
+    "f1-score": 0.1670995968420429,
+    "support": 2243
+  }
+}

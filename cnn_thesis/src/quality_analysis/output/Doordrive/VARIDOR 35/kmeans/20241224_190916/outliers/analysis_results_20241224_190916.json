@@ -1,0 +1,11 @@
+{
+  "timestamp": "20241224_190916",
+  "total_images": 154,
+  "optimal_clusters": 1,
+  "outliers_detected": 3,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Doordrive/VARIDOR 35/F_FOTO_DOORDRIVE_321a14cf-db8c-42d2-a087-2a767d6aa596.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/VARIDOR 35/F_FOTO_DOORDRIVE_5765cd95-8ac7-46f2-a27e-ac8a3b8e28f5.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/VARIDOR 35/F_FOTO_DOORDRIVE_5c10d91ba6feee77fff76c26.jpg"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "timestamp": "20241225_125451",
+  "total_images": 156,
+  "optimal_clusters": 1,
+  "outliers_detected": 5,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Umrichter/CT UNIDRIVE SP/F_FOTO_UMRICHTER_5bab2f40e57a1508000ad398.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/CT UNIDRIVE SP/F_FOTO_UMRICHTER_5bab37a85da3d5052046eb0d.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/CT UNIDRIVE SP/F_FOTO_UMRICHTER_5c878bede57a151329397dfc.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/CT UNIDRIVE SP/F_FOTO_UMRICHTER_68dbcc48-40b5-48d8-9404-89f9d7b195f0.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/CT UNIDRIVE SP/F_FOTO_UMRICHTER_9efb4eca-9abb-435e-a708-7809191b4d94.jpg"
+  ]
+}

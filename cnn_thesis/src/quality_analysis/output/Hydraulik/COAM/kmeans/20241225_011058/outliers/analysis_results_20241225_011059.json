@@ -1,0 +1,11 @@
+{
+  "timestamp": "20241225_011059",
+  "total_images": 115,
+  "optimal_clusters": 1,
+  "outliers_detected": 3,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Hydraulik/COAM/F_FOTO_HYDRAULIK_5cc1c135aec5a256d9642e5f.jpg",
+    "/teamspace/studios/this_studio/images/Hydraulik/COAM/F_FOTO_HYDRAULIK_5cff98138e7bc400015197bd.jpg",
+    "/teamspace/studios/this_studio/images/Hydraulik/COAM/F_FOTO_HYDRAULIK_8dde1fa4-6cc4-4bab-be28-ba5b04feb121.jpg"
+  ]
+}

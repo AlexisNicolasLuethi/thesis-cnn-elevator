@@ -1,0 +1,180 @@
+{
+    "timestamp": "20241026_203056",
+    "parameters": {
+        "learning_rate": [
+            0.0003,
+            0.0005,
+            0.0008
+        ],
+        "batch_size": [
+            56,
+            64,
+            72
+        ],
+        "optimizer_momentum": [
+            0.5,
+            0.7,
+            0.9
+        ],
+        "dropout_rate": [
+            0.38,
+            0.4,
+            0.42
+        ],
+        "l2_regularization": [
+            7.5e-05,
+            0.0001,
+            0.000125
+        ],
+        "dense_units": [
+            960,
+            1024,
+            1088
+        ],
+        "kernel_initializer": [
+            "glorot_uniform",
+            "he_normal",
+            "glorot_normal"
+        ],
+        "epochs": [
+            90,
+            100,
+            110
+        ],
+        "early_stopping_patience": [
+            5,
+            6,
+            7
+        ],
+        "min_delta": [
+            0.0008,
+            0.001,
+            0.0012
+        ],
+        "data_augmentation_enabled": [
+            false,
+            false,
+            true
+        ]
+    },
+    "experiment_matrix": [
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        [
+            0,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        [
+            1,
+            0,
+            1,
+            2,
+            0,
+            1,
+            2,
+            0,
+            1,
+            2,
+            0
+        ],
+        [
+            1,
+            1,
+            2,
+            0,
+            1,
+            2,
+            0,
+            1,
+            2,
+            0,
+            1
+        ],
+        [
+            1,
+            2,
+            0,
+            1,
+            2,
+            0,
+            1,
+            2,
+            0,
+            1,
+            2
+        ],
+        [
+            2,
+            0,
+            2,
+            1,
+            2,
+            0,
+            1,
+            2,
+            0,
+            1,
+            2
+        ],
+        [
+            2,
+            1,
+            0,
+            2,
+            0,
+            1,
+            2,
+            0,
+            1,
+            2,
+            0
+        ],
+        [
+            2,
+            2,
+            1,
+            0,
+            1,
+            2,
+            0,
+            1,
+            2,
+            0,
+            1
+        ]
+    ],
+    "base_config_path": "/teamspace/studios/this_studio/cnn_thesis/config.json"
+}

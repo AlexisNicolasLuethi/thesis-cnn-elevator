@@ -1,0 +1,13 @@
+{
+  "timestamp": "20241225_034639",
+  "total_images": 157,
+  "optimal_clusters": 1,
+  "outliers_detected": 5,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/AS Compact/F_FOTO_STEUERUNG_5bc08dc4e57a15422f208c4a.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/AS Compact/F_FOTO_STEUERUNG_5bec399c5da3d540c0d97538.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/AS Compact/F_FOTO_STEUERUNG_5bfcf7b1e57a15532c2e49b7.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/AS Compact/F_FOTO_STEUERUNG_5c6d3191aec5a23d656c3c35.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/AS Compact/F_FOTO_STEUERUNG_5dcad686de548d0001c126ab.jpg"
+  ]
+}

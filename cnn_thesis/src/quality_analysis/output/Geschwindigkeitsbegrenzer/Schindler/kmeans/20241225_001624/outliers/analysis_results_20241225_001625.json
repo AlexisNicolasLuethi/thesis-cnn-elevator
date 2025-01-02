@@ -1,0 +1,17 @@
+{
+  "timestamp": "20241225_001625",
+  "total_images": 272,
+  "optimal_clusters": 3,
+  "outliers_detected": 9,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/Schindler/F_FOTO_GB_5ba9fab15da3d5052034e177.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/Schindler/F_FOTO_GB_5bb5cf72e57a150639ee7c6b.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/Schindler/F_FOTO_GB_5bf6ca52e57a15532cc0fac1.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/Schindler/F_FOTO_GB_5c7d18f6a6feee0649087e62.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/Schindler/F_FOTO_GB_5cdd80160bf6f50001a20e03.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/Schindler/F_FOTO_GB_5dd3b695fa09ee0001754601.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/Schindler/F_FOTO_GB_5ef0705374bb3b4cd3e731f0.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/Schindler/F_FOTO_GB_7182c01e-fa3a-47b2-a678-641a755e84b6.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/Schindler/F_FOTO_GB_b34048ab-db37-4098-85c0-f95a699e2abb.jpg"
+  ]
+}

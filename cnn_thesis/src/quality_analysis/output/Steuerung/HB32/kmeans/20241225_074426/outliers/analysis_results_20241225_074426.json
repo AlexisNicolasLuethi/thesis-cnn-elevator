@@ -1,0 +1,11 @@
+{
+  "timestamp": "20241225_074426",
+  "total_images": 102,
+  "optimal_clusters": 1,
+  "outliers_detected": 3,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/HB32/F_FOTO_STEUERUNG_5bbafaae5da3d55187843f8e.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HB32/F_FOTO_STEUERUNG_5cf670aa9d2f25000130fea0.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HB32/F_FOTO_STEUERUNG_5df7c6e8cd8c6851868db1e8.jpg"
+  ]
+}

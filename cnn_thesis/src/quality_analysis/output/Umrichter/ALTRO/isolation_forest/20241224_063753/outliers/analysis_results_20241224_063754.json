@@ -1,0 +1,14 @@
+{
+  "timestamp": "20241224_063754",
+  "total_images": 60,
+  "optimal_clusters": 2,
+  "outliers_detected": 6,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Umrichter/ALTRO/F_FOTO_UMRICHTER_5b88ecf2a6feee6cc90098f5.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/ALTRO/F_FOTO_UMRICHTER_5c4aeaede57a15430645f984.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/ALTRO/F_FOTO_UMRICHTER_5d09e58d4a90b40001ef4ee2.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/ALTRO/F_FOTO_UMRICHTER_5d25dd86d88f3e0001880141.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/ALTRO/F_FOTO_UMRICHTER_5db6eef910604a000112bd37.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/ALTRO/F_FOTO_UMRICHTER_5ddfa40ad4fd0c2071843166.jpg"
+  ]
+}

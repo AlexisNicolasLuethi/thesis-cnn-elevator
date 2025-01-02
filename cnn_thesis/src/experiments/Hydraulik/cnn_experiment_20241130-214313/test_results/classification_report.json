@@ -1,0 +1,57 @@
+{
+  "Andere": {
+    "precision": 0.4418604651162791,
+    "recall": 0.4634146341463415,
+    "f1-score": 0.45238095238095233,
+    "support": 41
+  },
+  "Beringer": {
+    "precision": 0.5581395348837209,
+    "recall": 0.5581395348837209,
+    "f1-score": 0.5581395348837209,
+    "support": 43
+  },
+  "Bucher": {
+    "precision": 0.7073170731707317,
+    "recall": 0.6904761904761905,
+    "f1-score": 0.6987951807228916,
+    "support": 42
+  },
+  "COAM": {
+    "precision": 0.6363636363636364,
+    "recall": 0.30434782608695654,
+    "f1-score": 0.411764705882353,
+    "support": 23
+  },
+  "GMV": {
+    "precision": 0.7692307692307693,
+    "recall": 0.6976744186046512,
+    "f1-score": 0.7317073170731708,
+    "support": 43
+  },
+  "Gebauer": {
+    "precision": 0.6046511627906976,
+    "recall": 0.7878787878787878,
+    "f1-score": 0.6842105263157895,
+    "support": 33
+  },
+  "Giehl": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0
+  },
+  "accuracy": 0.6,
+  "macro avg": {
+    "precision": 0.5310803773651193,
+    "recall": 0.5002759131538069,
+    "f1-score": 0.5052854596084112,
+    "support": 225
+  },
+  "weighted avg": {
+    "precision": 0.6199572054591908,
+    "recall": 0.6,
+    "f1-score": 0.6018220750037424,
+    "support": 225
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "20241225_083717",
+  "total_images": 276,
+  "optimal_clusters": 1,
+  "outliers_detected": 6,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/MX-GC/F_FOTO_STEUERUNG_5be45080aec5a25b6537c2e0.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MX-GC/F_FOTO_STEUERUNG_5cdd13b42b93f90001a6d61c.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MX-GC/F_FOTO_STEUERUNG_5ce39d2f2a37ff000161866e.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MX-GC/F_FOTO_STEUERUNG_5da6d8f2a8d52b0001559a42.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MX-GC/F_FOTO_STEUERUNG_5e7db3ce09abac1ecaac03ec.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/MX-GC/F_FOTO_STEUERUNG_e45b3307-1dc3-43b6-90bd-414ec1190c04.jpg"
+  ]
+}

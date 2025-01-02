@@ -1,0 +1,10 @@
+{
+  "timestamp": "20241225_074603",
+  "total_images": 172,
+  "optimal_clusters": 1,
+  "outliers_detected": 2,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/HMPU/F_FOTO_STEUERUNG_5c51bc6d5da3d53f76f585d1.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/HMPU/F_FOTO_STEUERUNG_5d08b95241ea550001782869.jpg"
+  ]
+}

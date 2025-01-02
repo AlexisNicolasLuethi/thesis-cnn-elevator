@@ -1,0 +1,24 @@
+{
+    "experiment": 9,
+    "parameters_used": {
+        "learning_rate": 0.0006,
+        "batch_size": 88,
+        "optimizer_momentum": 0.5,
+        "lr_decay_enabled": true,
+        "lr_decay_factor": 0.5,
+        "lr_decay_patience": 3,
+        "lr_decay_min_lr": 1e-06,
+        "dropout_rate": 0.4,
+        "l2_regularization": 0.00012,
+        "dense_units": 960,
+        "kernel_initializer": "glorot_uniform",
+        "activation_function": "selu",
+        "epochs": 9,
+        "early_stopping_patience": 5,
+        "min_delta": 0.001,
+        "data_augmentation_enabled": false,
+        "use_batch_norm": true,
+        "batch_norm_momentum": 0.97
+    },
+    "validation_accuracy": 0.4285714328289032
+}

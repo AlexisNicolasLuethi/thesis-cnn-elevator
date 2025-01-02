@@ -1,0 +1,22 @@
+{
+  "timestamp": "20241223_220600",
+  "total_images": 137,
+  "optimal_clusters": 3,
+  "outliers_detected": 14,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Doordrive/085/F_FOTO_DOORDRIVE_5c0ee976aec5a26f451760ae.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/085/F_FOTO_DOORDRIVE_5c0fd2aaaec5a26f452a8d37.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/085/F_FOTO_DOORDRIVE_5c11100e5da3d50548b1126c.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/085/F_FOTO_DOORDRIVE_5c3852dea6feee0a28d04a5a.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/085/F_FOTO_DOORDRIVE_5c3d8f19a6feee552d658120.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/085/F_FOTO_DOORDRIVE_5c3dbad1aec5a2361e1c2005.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/085/F_FOTO_DOORDRIVE_5c5abd15e57a1578b02b5099.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/085/F_FOTO_DOORDRIVE_5c614b81aec5a2683dcf2352.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/085/F_FOTO_DOORDRIVE_5c73b6a5aec5a2069e120254.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/085/F_FOTO_DOORDRIVE_5caf3208e57a15618c80196a.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/085/F_FOTO_DOORDRIVE_5cc995faff2140000172a9f7.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/085/F_FOTO_DOORDRIVE_5ce4279b2a37ff00019040c0.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/085/F_FOTO_DOORDRIVE_5d089a4f4a90b400017c80fc.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/085/F_FOTO_DOORDRIVE_5e6b40ba5a38866f10bcfa82.jpg"
+  ]
+}

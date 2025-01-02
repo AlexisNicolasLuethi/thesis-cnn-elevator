@@ -1,0 +1,26 @@
+{
+    "paths": {
+        "data_dir": "/teamspace/studios/this_studio/images",
+        "output_base": "output"
+    },
+    "parameters": {
+        "contamination": 0.1,
+        "batch_size": 32,
+        "max_clusters": 10,
+        "img_size": [224, 224],
+        "max_images": null,
+        "outlier_method": "kmeans",  
+        "kmeans_params": {
+            "n_clusters": 3 
+        },
+        "isolation_forest_params": {
+            "n_estimators": 100,  
+            "max_samples": "auto",  
+            "random_state": 42  
+        },
+        "dbscan_params": {
+            "eps": 1.0,  
+            "min_samples": 3  
+        }
+    }
+}

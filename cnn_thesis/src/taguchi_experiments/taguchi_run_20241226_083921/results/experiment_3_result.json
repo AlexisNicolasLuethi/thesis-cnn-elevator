@@ -1,0 +1,20 @@
+{
+    "experiment": 3,
+    "parameters_used": {
+        "learning_rate": 0.0005,
+        "batch_size": 72,
+        "optimizer_momentum": 0.4,
+        "dropout_rate": 0.39,
+        "dense_units": 1152,
+        "epochs": 120,
+        "early_stopping_patience": 6,
+        "min_delta": 0.001,
+        "batch_norm_momentum": 0.999,
+        "kernel_initializer": "he_normal",
+        "activation_function": "relu",
+        "lr_decay_enabled": false,
+        "data_augmentation_enabled": false,
+        "outlier_detection": "isolation_forest"
+    },
+    "validation_accuracy": 0.5388143062591553
+}

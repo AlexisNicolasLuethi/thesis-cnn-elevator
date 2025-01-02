@@ -1,0 +1,430 @@
+{
+    "experiment_setup": {
+        "experiment_id": "20241027_114712",
+        "tested_parameters": {
+            "learning_rate": {
+                "values_tested": [
+                    0.0003,
+                    0.0004,
+                    0.0005
+                ],
+                "level_mapping": {
+                    "Level 0": 0.0003,
+                    "Level 1": 0.0004,
+                    "Level 2": 0.0005
+                }
+            },
+            "batch_size": {
+                "values_tested": [
+                    64,
+                    72,
+                    80
+                ],
+                "level_mapping": {
+                    "Level 0": 64,
+                    "Level 1": 72,
+                    "Level 2": 80
+                }
+            },
+            "optimizer_momentum": {
+                "values_tested": [
+                    0.1,
+                    0.3,
+                    0.5
+                ],
+                "level_mapping": {
+                    "Level 0": 0.1,
+                    "Level 1": 0.3,
+                    "Level 2": 0.5
+                }
+            },
+            "dropout_rate": {
+                "values_tested": [
+                    0.38,
+                    0.4,
+                    0.42
+                ],
+                "level_mapping": {
+                    "Level 0": 0.38,
+                    "Level 1": 0.4,
+                    "Level 2": 0.42
+                }
+            },
+            "l2_regularization": {
+                "values_tested": [
+                    7.5e-05,
+                    0.0001,
+                    0.000125
+                ],
+                "level_mapping": {
+                    "Level 0": 7.5e-05,
+                    "Level 1": 0.0001,
+                    "Level 2": 0.000125
+                }
+            },
+            "dense_units": {
+                "values_tested": [
+                    896,
+                    960,
+                    1024
+                ],
+                "level_mapping": {
+                    "Level 0": 896,
+                    "Level 1": 960,
+                    "Level 2": 1024
+                }
+            },
+            "kernel_initializer": {
+                "values_tested": [
+                    "he_normal",
+                    "glorot_uniform",
+                    "glorot_normal"
+                ],
+                "level_mapping": {
+                    "Level 0": "he_normal",
+                    "Level 1": "glorot_uniform",
+                    "Level 2": "glorot_normal"
+                }
+            },
+            "activation_function": {
+                "values_tested": [
+                    "relu",
+                    "selu",
+                    "elu"
+                ],
+                "level_mapping": {
+                    "Level 0": "relu",
+                    "Level 1": "selu",
+                    "Level 2": "elu"
+                }
+            },
+            "epochs": {
+                "values_tested": [
+                    80,
+                    100,
+                    120
+                ],
+                "level_mapping": {
+                    "Level 0": 80,
+                    "Level 1": 100,
+                    "Level 2": 120
+                }
+            },
+            "early_stopping_patience": {
+                "values_tested": [
+                    4,
+                    5,
+                    6
+                ],
+                "level_mapping": {
+                    "Level 0": 4,
+                    "Level 1": 5,
+                    "Level 2": 6
+                }
+            },
+            "min_delta": {
+                "values_tested": [
+                    0.0008,
+                    0.001,
+                    0.0012
+                ],
+                "level_mapping": {
+                    "Level 0": 0.0008,
+                    "Level 1": 0.001,
+                    "Level 2": 0.0012
+                }
+            },
+            "data_augmentation_enabled": {
+                "values_tested": [
+                    false,
+                    true,
+                    true
+                ],
+                "level_mapping": {
+                    "Level 0": false,
+                    "Level 1": true,
+                    "Level 2": true
+                }
+            }
+        },
+        "individual_results": [
+            {
+                "experiment": 1,
+                "parameters_used": {
+                    "learning_rate": 0.0003,
+                    "batch_size": 64,
+                    "optimizer_momentum": 0.1,
+                    "dropout_rate": 0.38,
+                    "l2_regularization": 7.5e-05,
+                    "dense_units": 896,
+                    "kernel_initializer": "he_normal",
+                    "activation_function": "relu",
+                    "epochs": 80,
+                    "early_stopping_patience": 4,
+                    "min_delta": 0.0008,
+                    "data_augmentation_enabled": false
+                },
+                "validation_accuracy": 0.8906525373458862
+            },
+            {
+                "experiment": 2,
+                "parameters_used": {
+                    "learning_rate": 0.0003,
+                    "batch_size": 72,
+                    "optimizer_momentum": 0.3,
+                    "dropout_rate": 0.4,
+                    "l2_regularization": 0.0001,
+                    "dense_units": 960,
+                    "kernel_initializer": "glorot_uniform",
+                    "activation_function": "selu",
+                    "epochs": 100,
+                    "early_stopping_patience": 5,
+                    "min_delta": 0.001,
+                    "data_augmentation_enabled": true
+                },
+                "validation_accuracy": 0.9100528955459595
+            },
+            {
+                "experiment": 3,
+                "parameters_used": {
+                    "learning_rate": 0.0003,
+                    "batch_size": 80,
+                    "optimizer_momentum": 0.5,
+                    "dropout_rate": 0.42,
+                    "l2_regularization": 0.000125,
+                    "dense_units": 1024,
+                    "kernel_initializer": "glorot_normal",
+                    "activation_function": "elu",
+                    "epochs": 120,
+                    "early_stopping_patience": 6,
+                    "min_delta": 0.0012,
+                    "data_augmentation_enabled": true
+                },
+                "validation_accuracy": 0.9012345671653748
+            },
+            {
+                "experiment": 4,
+                "parameters_used": {
+                    "learning_rate": 0.0004,
+                    "batch_size": 64,
+                    "optimizer_momentum": 0.3,
+                    "dropout_rate": 0.42,
+                    "l2_regularization": 7.5e-05,
+                    "dense_units": 960,
+                    "kernel_initializer": "glorot_normal",
+                    "activation_function": "relu",
+                    "epochs": 100,
+                    "early_stopping_patience": 6,
+                    "min_delta": 0.0008,
+                    "data_augmentation_enabled": true
+                },
+                "validation_accuracy": 0.9065255522727966
+            },
+            {
+                "experiment": 5,
+                "parameters_used": {
+                    "learning_rate": 0.0004,
+                    "batch_size": 72,
+                    "optimizer_momentum": 0.5,
+                    "dropout_rate": 0.38,
+                    "l2_regularization": 0.0001,
+                    "dense_units": 1024,
+                    "kernel_initializer": "he_normal",
+                    "activation_function": "selu",
+                    "epochs": 120,
+                    "early_stopping_patience": 4,
+                    "min_delta": 0.001,
+                    "data_augmentation_enabled": true
+                },
+                "validation_accuracy": 0.8977072238922119
+            },
+            {
+                "experiment": 6,
+                "parameters_used": {
+                    "learning_rate": 0.0004,
+                    "batch_size": 80,
+                    "optimizer_momentum": 0.1,
+                    "dropout_rate": 0.4,
+                    "l2_regularization": 0.000125,
+                    "dense_units": 896,
+                    "kernel_initializer": "glorot_uniform",
+                    "activation_function": "elu",
+                    "epochs": 80,
+                    "early_stopping_patience": 5,
+                    "min_delta": 0.0012,
+                    "data_augmentation_enabled": false
+                },
+                "validation_accuracy": 0.9118165969848633
+            },
+            {
+                "experiment": 7,
+                "parameters_used": {
+                    "learning_rate": 0.0005,
+                    "batch_size": 64,
+                    "optimizer_momentum": 0.5,
+                    "dropout_rate": 0.4,
+                    "l2_regularization": 0.000125,
+                    "dense_units": 896,
+                    "kernel_initializer": "glorot_uniform",
+                    "activation_function": "elu",
+                    "epochs": 80,
+                    "early_stopping_patience": 5,
+                    "min_delta": 0.0012,
+                    "data_augmentation_enabled": true
+                },
+                "validation_accuracy": 0.9047619104385376
+            },
+            {
+                "experiment": 8,
+                "parameters_used": {
+                    "learning_rate": 0.0005,
+                    "batch_size": 72,
+                    "optimizer_momentum": 0.1,
+                    "dropout_rate": 0.42,
+                    "l2_regularization": 7.5e-05,
+                    "dense_units": 960,
+                    "kernel_initializer": "glorot_normal",
+                    "activation_function": "relu",
+                    "epochs": 100,
+                    "early_stopping_patience": 6,
+                    "min_delta": 0.0008,
+                    "data_augmentation_enabled": true
+                },
+                "validation_accuracy": 0.89241623878479
+            },
+            {
+                "experiment": 9,
+                "parameters_used": {
+                    "learning_rate": 0.0005,
+                    "batch_size": 80,
+                    "optimizer_momentum": 0.3,
+                    "dropout_rate": 0.38,
+                    "l2_regularization": 0.0001,
+                    "dense_units": 1024,
+                    "kernel_initializer": "he_normal",
+                    "activation_function": "selu",
+                    "epochs": 120,
+                    "early_stopping_patience": 4,
+                    "min_delta": 0.001,
+                    "data_augmentation_enabled": false
+                },
+                "validation_accuracy": 0.9082892537117004
+            }
+        ]
+    },
+    "analysis_results": {
+        "effects": {
+            "learning_rate": {
+                "Level 0 (0.0003)": 0.9006466666857401,
+                "Level 1 (0.0004)": 0.9053497910499573,
+                "Level 2 (0.0005)": 0.9018224676450094
+            },
+            "batch_size": {
+                "Level 0 (64)": 0.9006466666857401,
+                "Level 1 (72)": 0.9000587860743204,
+                "Level 2 (80)": 0.9071134726206461
+            },
+            "optimizer_momentum": {
+                "Level 0 (0.1)": 0.8982951243718466,
+                "Level 1 (0.3)": 0.9082892338434855,
+                "Level 2 (0.5)": 0.9012345671653748
+            },
+            "dropout_rate": {
+                "Level 0 (0.38)": 0.8988830049832662,
+                "Level 1 (0.4)": 0.9088771343231201,
+                "Level 2 (0.42)": 0.9000587860743204
+            },
+            "l2_regularization": {
+                "Level 0 (7.5e-05)": 0.8965314428011576,
+                "Level 1 (0.0001)": 0.9053497910499573,
+                "Level 2 (0.000125)": 0.9059376915295919
+            },
+            "dense_units": {
+                "Level 0 (896)": 0.9024103482564291,
+                "Level 1 (960)": 0.9029982288678488,
+                "Level 2 (1024)": 0.9024103482564291
+            },
+            "kernel_initializer": {
+                "Level 0 (he_normal)": 0.8988830049832662,
+                "Level 1 (glorot_uniform)": 0.9088771343231201,
+                "Level 2 (glorot_normal)": 0.9000587860743204
+            },
+            "activation_function": {
+                "Level 0 (relu)": 0.8965314428011576,
+                "Level 1 (selu)": 0.9053497910499573,
+                "Level 2 (elu)": 0.9059376915295919
+            },
+            "epochs": {
+                "Level 0 (80)": 0.9024103482564291,
+                "Level 1 (100)": 0.9029982288678488,
+                "Level 2 (120)": 0.9024103482564291
+            },
+            "early_stopping_patience": {
+                "Level 0 (4)": 0.8988830049832662,
+                "Level 1 (5)": 0.9088771343231201,
+                "Level 2 (6)": 0.9000587860743204
+            },
+            "min_delta": {
+                "Level 0 (0.0008)": 0.8965314428011576,
+                "Level 1 (0.001)": 0.9053497910499573,
+                "Level 2 (0.0012)": 0.9059376915295919
+            },
+            "data_augmentation_enabled": {
+                "Level 0 (False)": 0.9035861293474833,
+                "Level 1 (True)": 0.9071134527524313,
+                "Level 2 (True)": 0.8971193432807922
+            }
+        },
+        "optimal_parameters": {
+            "learning_rate": 0.0004,
+            "batch_size": 80,
+            "optimizer_momentum": 0.3,
+            "dropout_rate": 0.4,
+            "l2_regularization": 0.000125,
+            "dense_units": 960,
+            "kernel_initializer": "glorot_uniform",
+            "activation_function": "elu",
+            "epochs": 100,
+            "early_stopping_patience": 5,
+            "min_delta": 0.0012,
+            "data_augmentation_enabled": true
+        },
+        "parameter_contributions": {
+            "learning_rate": "7.73%",
+            "batch_size": "19.76%",
+            "optimizer_momentum": "34.03%",
+            "dropout_rate": "38.48%",
+            "l2_regularization": "35.81%",
+            "dense_units": "0.15%",
+            "kernel_initializer": "38.48%",
+            "activation_function": "35.81%",
+            "epochs": "0.15%",
+            "early_stopping_patience": "38.48%",
+            "min_delta": "35.81%",
+            "data_augmentation_enabled": "33.14%"
+        },
+        "best_accuracy": 0.9118165969848633,
+        "best_experiment": {
+            "learning_rate": 0.0004,
+            "batch_size": 80,
+            "optimizer_momentum": 0.1,
+            "dropout_rate": 0.4,
+            "l2_regularization": 0.000125,
+            "dense_units": 896,
+            "kernel_initializer": "glorot_uniform",
+            "activation_function": "elu",
+            "epochs": 80,
+            "early_stopping_patience": 5,
+            "min_delta": 0.0012,
+            "data_augmentation_enabled": false
+        }
+    },
+    "visualization_paths": {
+        "parameter_effects": [
+            "/teamspace/studios/this_studio/cnn_thesis/src/taguchi_experiments/taguchi_run_20241027_114712/parameter_effects_group_1.png",
+            "/teamspace/studios/this_studio/cnn_thesis/src/taguchi_experiments/taguchi_run_20241027_114712/parameter_effects_group_2.png"
+        ],
+        "parameter_contributions": "/teamspace/studios/this_studio/cnn_thesis/src/taguchi_experiments/taguchi_run_20241027_114712/parameter_contributions.png"
+    },
+    "timestamp": "2024-10-27 11:55:53"
+}

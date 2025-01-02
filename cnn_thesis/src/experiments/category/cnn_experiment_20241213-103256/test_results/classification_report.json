@@ -1,0 +1,63 @@
+{
+  "Doorcontrol": {
+    "precision": 0.9330143540669856,
+    "recall": 0.9605911330049262,
+    "f1-score": 0.946601941747573,
+    "support": 203
+  },
+  "Doordrive": {
+    "precision": 0.9043478260869565,
+    "recall": 0.9369369369369369,
+    "f1-score": 0.9203539823008849,
+    "support": 222
+  },
+  "Geschwindigkeitsbegrenzer": {
+    "precision": 0.9704433497536946,
+    "recall": 0.9516908212560387,
+    "f1-score": 0.9609756097560976,
+    "support": 207
+  },
+  "Hydraulik": {
+    "precision": 0.9644670050761421,
+    "recall": 0.95,
+    "f1-score": 0.9571788413098236,
+    "support": 200
+  },
+  "Machine": {
+    "precision": 0.9158415841584159,
+    "recall": 0.9438775510204082,
+    "f1-score": 0.9296482412060302,
+    "support": 196
+  },
+  "Steuerung": {
+    "precision": 0.9795918367346939,
+    "recall": 0.9746192893401016,
+    "f1-score": 0.9770992366412214,
+    "support": 197
+  },
+  "Umrichter": {
+    "precision": 0.9617486338797814,
+    "recall": 0.9214659685863874,
+    "f1-score": 0.9411764705882353,
+    "support": 191
+  },
+  "Winde": {
+    "precision": 0.9162011173184358,
+    "recall": 0.8961748633879781,
+    "f1-score": 0.9060773480662984,
+    "support": 183
+  },
+  "accuracy": 0.9424640400250156,
+  "macro avg": {
+    "precision": 0.9432069633843883,
+    "recall": 0.9419195704415971,
+    "f1-score": 0.9423889589520206,
+    "support": 1599
+  },
+  "weighted avg": {
+    "precision": 0.9429553730789505,
+    "recall": 0.9424640400250156,
+    "f1-score": 0.9425346861789987,
+    "support": 1599
+  }
+}

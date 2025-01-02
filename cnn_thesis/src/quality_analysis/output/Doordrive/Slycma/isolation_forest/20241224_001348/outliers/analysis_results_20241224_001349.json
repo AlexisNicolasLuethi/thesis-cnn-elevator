@@ -1,0 +1,17 @@
+{
+  "timestamp": "20241224_001349",
+  "total_images": 85,
+  "optimal_clusters": 2,
+  "outliers_detected": 9,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Doordrive/Slycma/F_FOTO_DOORDRIVE_1dedc46d-96d0-4144-ac15-bc2ba1681fc1.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Slycma/F_FOTO_DOORDRIVE_49a090b6-e3b1-4b17-a773-bc4cea65625f.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Slycma/F_FOTO_DOORDRIVE_5c99fc9aaec5a2064a358b35.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Slycma/F_FOTO_DOORDRIVE_5ce50b2968160d0001242bc6.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Slycma/F_FOTO_DOORDRIVE_63d528ac-361a-4d65-a6e3-c730d6ad3b96.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Slycma/F_FOTO_DOORDRIVE_6fdbe9e8-1e07-4a2a-b185-0904a6915e47.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Slycma/F_FOTO_DOORDRIVE_7587f0c6-b882-44e7-8e79-be0325673c32.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Slycma/F_FOTO_DOORDRIVE_8d0f6ea1-fb53-407c-aa6d-0d9b79972561.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Slycma/F_FOTO_DOORDRIVE_c7d896c3-70d9-4eee-8164-9b4ac2d12ddf.jpg"
+  ]
+}

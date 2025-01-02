@@ -1,0 +1,10 @@
+{
+  "timestamp": "20241224_072439",
+  "total_images": 12,
+  "optimal_clusters": 1,
+  "outliers_detected": 2,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Umrichter/EINGESCHWINDIGKEIT/F_FOTO_UMRICHTER_5c657b5ae57a1512d18e540c.jpg",
+    "/teamspace/studios/this_studio/images/Umrichter/EINGESCHWINDIGKEIT/F_FOTO_UMRICHTER_5e5f6ef23ace42028db737e5.jpg"
+  ]
+}

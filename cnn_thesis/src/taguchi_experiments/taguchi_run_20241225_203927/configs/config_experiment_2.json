@@ -1,0 +1,35 @@
+{
+    "experiment": {
+        "name": "cnn_experiment",
+        "version": "Umrichter",
+        "training_mode": "taguchi",
+        "_training_mode_description": {
+            "options": [
+                "taguchi",
+                "config_only"
+            ],
+            "description": "Set to 'taguchi' for parameter optimization or 'config_only' to use exact config values"
+        },
+        "log_dir": "experiments",
+        "random_seed": 42
+    },
+    "data": {
+        "data_dir": "/teamspace/studios/this_studio/images/Umrichter",
+        "classification_level": "subcategory",
+        "img_size": [
+            224,
+            224
+        ],
+        "test_split": 0.2,
+        "images_per_category": 100,
+        "sampling": {
+            "enabled": false
+        },
+        "reproducible_loading": {
+            "deterministic": true,
+            "num_workers": 1
+        },
+        "outlier_detection": {
+            "method": "kmeans",
+            "cached_results": {
+                "Doorcontrol/Fermator VF5+": 

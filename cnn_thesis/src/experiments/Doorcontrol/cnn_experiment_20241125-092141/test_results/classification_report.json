@@ -1,0 +1,75 @@
+{
+  "Fermator VF5+": {
+    "precision": 0.8285714285714286,
+    "recall": 0.7435897435897436,
+    "f1-score": 0.7837837837837838,
+    "support": 195
+  },
+  "Fermator VF7": {
+    "precision": 0.9641025641025641,
+    "recall": 0.9215686274509803,
+    "f1-score": 0.9423558897243107,
+    "support": 204
+  },
+  "Fermator VVVF4+": {
+    "precision": 0.865,
+    "recall": 0.9453551912568307,
+    "f1-score": 0.9033942558746736,
+    "support": 183
+  },
+  "Fermator VVVF5": {
+    "precision": 0.8032786885245902,
+    "recall": 0.8166666666666667,
+    "f1-score": 0.8099173553719008,
+    "support": 180
+  },
+  "Masora AHS 5000": {
+    "precision": 0.7627118644067796,
+    "recall": 0.678391959798995,
+    "f1-score": 0.7180851063829786,
+    "support": 199
+  },
+  "Masora AHS 5000W": {
+    "precision": 0.7172131147540983,
+    "recall": 0.8578431372549019,
+    "f1-score": 0.78125,
+    "support": 204
+  },
+  "Masora AHS 7001": {
+    "precision": 0.8852459016393442,
+    "recall": 0.81,
+    "f1-score": 0.8459530026109661,
+    "support": 200
+  },
+  "Sematic": {
+    "precision": 0.5510204081632653,
+    "recall": 0.48214285714285715,
+    "f1-score": 0.5142857142857142,
+    "support": 112
+  },
+  "Sematic SDS DC-PWM": {
+    "precision": 0.7272727272727273,
+    "recall": 0.8080808080808081,
+    "f1-score": 0.7655502392344496,
+    "support": 198
+  },
+  "Varidor 15": {
+    "precision": 0.9428571428571428,
+    "recall": 0.9428571428571428,
+    "f1-score": 0.9428571428571428,
+    "support": 105
+  },
+  "accuracy": 0.8078651685393259,
+  "macro avg": {
+    "precision": 0.804727384029194,
+    "recall": 0.8006496134098926,
+    "f1-score": 0.800743249012592,
+    "support": 1780
+  },
+  "weighted avg": {
+    "precision": 0.8095438865459088,
+    "recall": 0.8078651685393259,
+    "f1-score": 0.8066450540418155,
+    "support": 1780
+  }
+}

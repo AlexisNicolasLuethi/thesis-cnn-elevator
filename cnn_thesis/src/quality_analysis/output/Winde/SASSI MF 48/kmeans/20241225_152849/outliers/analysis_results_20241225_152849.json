@@ -1,0 +1,12 @@
+{
+  "timestamp": "20241225_152849",
+  "total_images": 136,
+  "optimal_clusters": 1,
+  "outliers_detected": 4,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Winde/SASSI MF 48/F_FOTO_WINDE_5d63af016edec00001f4028a.jpg",
+    "/teamspace/studios/this_studio/images/Winde/SASSI MF 48/F_FOTO_WINDE_5d76304d9aa37c000199cb4c.jpg",
+    "/teamspace/studios/this_studio/images/Winde/SASSI MF 48/F_FOTO_WINDE_5d9afcca13a7a4000164bbc2.jpg",
+    "/teamspace/studios/this_studio/images/Winde/SASSI MF 48/F_FOTO_WINDE_5f59f0b332898f3a376a20e7.jpg"
+  ]
+}

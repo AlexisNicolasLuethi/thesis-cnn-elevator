@@ -1,0 +1,12 @@
+{
+  "timestamp": "20241225_074243",
+  "total_images": 109,
+  "optimal_clusters": 1,
+  "outliers_detected": 4,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/Genie STD/F_FOTO_STEUERUNG_5c496b325da3d52ca640f114.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Genie STD/F_FOTO_STEUERUNG_5c88fb72aec5a2064c17965f.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Genie STD/F_FOTO_STEUERUNG_5cd1973b2e2d560001e791f3.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/Genie STD/F_FOTO_STEUERUNG_5cd295be236f4c000185a6f0.jpg"
+  ]
+}

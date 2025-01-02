@@ -1,0 +1,20 @@
+{
+  "timestamp": "20241225_054954",
+  "total_images": 339,
+  "optimal_clusters": 1,
+  "outliers_detected": 12,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/BP 306/F_FOTO_STEUERUNG_5af6ec4d-e021-4518-9ec3-2b2a07164f5c.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/BP 306/F_FOTO_STEUERUNG_5bab6fe1aec5a20527dce267.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/BP 306/F_FOTO_STEUERUNG_5c0f66555da3d50548afc258.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/BP 306/F_FOTO_STEUERUNG_5c0f6919e57a15532c8b135b.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/BP 306/F_FOTO_STEUERUNG_5cc06db7a6feee25238f08dc.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/BP 306/F_FOTO_STEUERUNG_5cca9c9c052e420001d26630.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/BP 306/F_FOTO_STEUERUNG_5ce543c474301100016bc79c.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/BP 306/F_FOTO_STEUERUNG_5d09d2da41ea550001cb7884.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/BP 306/F_FOTO_STEUERUNG_5d53bd01bac232000152289d.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/BP 306/F_FOTO_STEUERUNG_5d5fcf7d6edec00001792029.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/BP 306/F_FOTO_STEUERUNG_5dfa0129edc8fc33235b0415.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/BP 306/F_FOTO_STEUERUNG_5e7daa2309abac1ecaabf9e8.jpg"
+  ]
+}

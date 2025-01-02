@@ -1,0 +1,67 @@
+{
+  "experiment": {
+    "name": "cnn_experiment",
+    "version": "Version2",
+    "log_dir": "experiments",
+    "random_seed": 42
+  },
+  "data": {
+    "data_dir": "/teamspace/uploads",
+    "img_size": [
+      224,
+      224
+    ],
+    "test_split": 0.2,
+    "images_per_category": 500,
+    "sampling": {
+      "enabled": false
+    },
+    "actual_images_per_category": {
+      "FMB130": 500,
+      "FMB130-4C": 500,
+      "FML200": 153,
+      "PMS420": 182,
+      "SGB142": 500,
+      "SM200": 500,
+      "Z244S": 500
+    }
+  },
+  "model": {
+    "base": "VGG16",
+    "input_shape": [
+      224,
+      224,
+      3
+    ],
+    "dense_layers": [
+      960
+    ],
+    "dropout_rate": 0.42,
+    "l2_regularization": 7.5e-05,
+    "activation_function": "selu",
+    "kernel_initializer": "he_normal"
+  },
+  "training": {
+    "optimizer": "adam",
+    "learning_rate": 0.0004,
+    "optimizer_momentum": 0.5,
+    "batch_size": 72,
+    "epochs": 120,
+    "loss_function": "categorical_crossentropy",
+    "early_stopping": {
+      "enabled": true,
+      "patience": 6,
+      "min_delta": 0.0008,
+      "monitor": "val_loss",
+      "restore_best_weights": true
+    }
+  },
+  "data_augmentation": {
+    "enabled": true,
+    "rotation_range": 20,
+    "width_shift_range": 0.2,
+    "height_shift_range": 0.2,
+    "horizontal_flip": true,
+    "zoom_range": 0.15
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "timestamp": "20241224_233339",
+  "total_images": 117,
+  "optimal_clusters": 1,
+  "outliers_detected": 3,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/PFB/F_FOTO_GB_5c122dab5da3d50548b1da89.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/PFB/F_FOTO_GB_5c3f27505da3d57a6edff695.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/PFB/F_FOTO_GB_5c4ae000a6feee721ccc4725.jpg"
+  ]
+}

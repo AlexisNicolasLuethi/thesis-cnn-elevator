@@ -1,0 +1,10 @@
+{
+  "timestamp": "20241224_184109",
+  "total_images": 85,
+  "optimal_clusters": 2,
+  "outliers_detected": 2,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Doordrive/Slycma/F_FOTO_DOORDRIVE_6fdbe9e8-1e07-4a2a-b185-0904a6915e47.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/Slycma/F_FOTO_DOORDRIVE_8e46f3f2-72d4-4990-b2f9-34fd74fcb3b4.jpg"
+  ]
+}

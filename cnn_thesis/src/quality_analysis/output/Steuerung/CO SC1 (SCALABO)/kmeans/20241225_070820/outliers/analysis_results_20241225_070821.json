@@ -1,0 +1,13 @@
+{
+  "timestamp": "20241225_070821",
+  "total_images": 139,
+  "optimal_clusters": 1,
+  "outliers_detected": 5,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/CO SC1 (SCALABO)/F_FOTO_STEUERUNG_29c1d1df-3c1c-4e28-a461-74674da854d1.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/CO SC1 (SCALABO)/F_FOTO_STEUERUNG_3a0d915b-f0a3-4789-b5b2-e11ad051f284.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/CO SC1 (SCALABO)/F_FOTO_STEUERUNG_48211479-c827-4354-b512-faf0284bd62d.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/CO SC1 (SCALABO)/F_FOTO_STEUERUNG_7094e8de-8b19-4cc9-bd20-cb1d884be512.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/CO SC1 (SCALABO)/F_FOTO_STEUERUNG_e1eb1746-9c81-48f6-b957-a536ef938349.jpg"
+  ]
+}

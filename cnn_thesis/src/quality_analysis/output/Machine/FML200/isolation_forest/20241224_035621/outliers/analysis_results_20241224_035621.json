@@ -1,0 +1,24 @@
+{
+  "timestamp": "20241224_035621",
+  "total_images": 153,
+  "optimal_clusters": 1,
+  "outliers_detected": 16,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_01ae7648-821f-4df2-b458-73198adf1965.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_11532ae5-f0b2-4732-9c43-196b97287dff.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_3274b785-9e21-4849-b50e-df63397f5827.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_3b2d536d-3e52-4b78-b89d-6110261f7c15.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_5abe4927-0375-45d7-a971-874c3bb8b607.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_5b426ec3-4af9-40a8-bdeb-c5fdd256196e.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_5cd149ee1d624a0001449386.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_5d23400f27ac560001ac09db.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_5d822ca7cb0b8c000130ea5c.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_5d8c4decdcbe940001f10f02.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_5df0b7aa45dd894bb3ff7452.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_5f5b1344d2b804568e0f1bca.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_5f68a9bf35489f237acdaaca.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_5f7d854d7d117e23d8bf30d4.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_aa4351de-1001-4137-a9a4-eb0b51b6bf92.jpg",
+    "/teamspace/studios/this_studio/images/Machine/FML200/F_FOTO_MASCHINE_acf823f7-dc4b-442a-9ab5-fd6f5464ed93.jpg"
+  ]
+}

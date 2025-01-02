@@ -1,0 +1,20 @@
+{
+  "timestamp": "20241224_022316",
+  "total_images": 117,
+  "optimal_clusters": 1,
+  "outliers_detected": 12,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/PFB/F_FOTO_GB_5b9b52bca6feee08512f28f3.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/PFB/F_FOTO_GB_5bfe8c5ce57a15532c49497d.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/PFB/F_FOTO_GB_5c3f27505da3d57a6edff695.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/PFB/F_FOTO_GB_5c4ae000a6feee721ccc4725.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/PFB/F_FOTO_GB_5c62842aaec5a219723e40df.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/PFB/F_FOTO_GB_5c7fc5c2a6feee39f9d22d2f.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/PFB/F_FOTO_GB_5cda7766843f6c00014511ea.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/PFB/F_FOTO_GB_5ce5384368160d00013451fb.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/PFB/F_FOTO_GB_5ce65b207430110001bf5557.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/PFB/F_FOTO_GB_5d8a17ab6646150001459e40.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/PFB/F_FOTO_GB_5daef8f8c109330001f948b9.jpg",
+    "/teamspace/studios/this_studio/images/Geschwindigkeitsbegrenzer/PFB/F_FOTO_GB_70dbcb30-6124-4505-b28f-7659e5764330.jpg"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "timestamp": "20241225_065919",
+  "total_images": 127,
+  "optimal_clusters": 2,
+  "outliers_detected": 4,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Steuerung/B\u00d6HNKE & PARTNER  BP304/F_FOTO_STEUERUNG_5b863458a6feee1a3e596834.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/B\u00d6HNKE & PARTNER  BP304/F_FOTO_STEUERUNG_5cd967d40138eb0001eca9f2.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/B\u00d6HNKE & PARTNER  BP304/F_FOTO_STEUERUNG_5d9346876bdf1900015bdaa3.jpg",
+    "/teamspace/studios/this_studio/images/Steuerung/B\u00d6HNKE & PARTNER  BP304/F_FOTO_STEUERUNG_5ed7a2e0eb2bcf200435108a.jpg"
+  ]
+}

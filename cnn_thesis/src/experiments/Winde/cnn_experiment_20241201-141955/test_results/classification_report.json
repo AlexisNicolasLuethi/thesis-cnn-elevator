@@ -1,0 +1,159 @@
+{
+  "11VTR": {
+    "precision": 0.8421052631578947,
+    "recall": 0.9142857142857143,
+    "f1-score": 0.8767123287671234,
+    "support": 35
+  },
+  "AS88": {
+    "precision": 0.6833333333333333,
+    "recall": 0.7592592592592593,
+    "f1-score": 0.7192982456140351,
+    "support": 54
+  },
+  "AUTRES": {
+    "precision": 0.375,
+    "recall": 0.20930232558139536,
+    "f1-score": 0.26865671641791045,
+    "support": 43
+  },
+  "AV0": {
+    "precision": 0.8214285714285714,
+    "recall": 0.696969696969697,
+    "f1-score": 0.7540983606557378,
+    "support": 33
+  },
+  "FF340": {
+    "precision": 0.7804878048780488,
+    "recall": 0.7804878048780488,
+    "f1-score": 0.7804878048780488,
+    "support": 41
+  },
+  "GZ": {
+    "precision": 0.6739130434782609,
+    "recall": 0.8611111111111112,
+    "f1-score": 0.7560975609756099,
+    "support": 36
+  },
+  "GZ1": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0
+  },
+  "LEO": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 52
+  },
+  "MF25": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 51
+  },
+  "MF28": {
+    "precision": 0.06382978723404255,
+    "recall": 0.08333333333333333,
+    "f1-score": 0.07228915662650602,
+    "support": 36
+  },
+  "MF48": {
+    "precision": 0.03225806451612903,
+    "recall": 0.023255813953488372,
+    "f1-score": 0.027027027027027025,
+    "support": 43
+  },
+  "MF58": {
+    "precision": 0.038461538461538464,
+    "recall": 0.037037037037037035,
+    "f1-score": 0.03773584905660377,
+    "support": 27
+  },
+  "S23": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 22
+  },
+  "SASSI": {
+    "precision": 0.07894736842105263,
+    "recall": 0.06976744186046512,
+    "f1-score": 0.07407407407407408,
+    "support": 43
+  },
+  "SASSI LEO": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 41
+  },
+  "SASSI MF 48": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 26
+  },
+  "SASSI TORO": {
+    "precision": 0.10526315789473684,
+    "recall": 0.06896551724137931,
+    "f1-score": 0.08333333333333333,
+    "support": 29
+  },
+  "TORO": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 23
+  },
+  "VS40": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 34
+  },
+  "W140": {
+    "precision": 0.02857142857142857,
+    "recall": 0.03125,
+    "f1-score": 0.02985074626865672,
+    "support": 32
+  },
+  "W163": {
+    "precision": 0.07142857142857142,
+    "recall": 0.02702702702702703,
+    "f1-score": 0.0392156862745098,
+    "support": 37
+  },
+  "W200": {
+    "precision": 0.2962962962962963,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.3137254901960785,
+    "support": 24
+  },
+  "W250": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 22
+  },
+  "W36": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 26
+  },
+  "accuracy": 0.23209876543209876,
+  "macro avg": {
+    "precision": 0.20380517621249603,
+    "recall": 0.2039743923279704,
+    "f1-score": 0.2013584325068856,
+    "support": 810
+  },
+  "weighted avg": {
+    "precision": 0.23173549342626396,
+    "recall": 0.23209876543209876,
+    "f1-score": 0.2290184460336975,
+    "support": 810
+  }
+}

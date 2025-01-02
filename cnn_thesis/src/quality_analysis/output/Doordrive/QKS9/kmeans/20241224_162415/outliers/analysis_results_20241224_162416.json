@@ -1,0 +1,15 @@
+{
+  "timestamp": "20241224_162416",
+  "total_images": 261,
+  "optimal_clusters": 6,
+  "outliers_detected": 7,
+  "outlier_paths": [
+    "/teamspace/studios/this_studio/images/Doordrive/QKS9/F_FOTO_DOORDRIVE_5c0e5f69aec5a26f45094e88.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/QKS9/F_FOTO_DOORDRIVE_5cc6b529e57a15464dd8a6be.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/QKS9/F_FOTO_DOORDRIVE_5cd2cac7236f4c000195ad9b.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/QKS9/F_FOTO_DOORDRIVE_5d11eefb313ab10001e414bc.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/QKS9/F_FOTO_DOORDRIVE_5d356e23db1ae70001c9b1d0.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/QKS9/F_FOTO_DOORDRIVE_5e8f50f81197450a244d68af.jpg",
+    "/teamspace/studios/this_studio/images/Doordrive/QKS9/F_FOTO_DOORDRIVE_5edf91522ccc6a23dae481be.jpg"
+  ]
+}
